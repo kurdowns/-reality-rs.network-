@@ -1,0 +1,45 @@
+{
+  "id": 76,
+  "name": "Bandit Shop",
+  "currency": "ItemCurrency:995",
+  "generalStore": false,
+  "buysItems": true,
+  "replenishTime": 300000,
+  "items": [
+    {
+      "id": 4627,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 1833,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 1835,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 1837,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 4611,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 6384,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 6386,
+      "amount": 100,
+      "price": 0
+    }
+  ]
+}

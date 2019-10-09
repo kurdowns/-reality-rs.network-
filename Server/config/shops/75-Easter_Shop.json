@@ -1,0 +1,30 @@
+{
+  "id": 75,
+  "name": "Easter Shop",
+  "currency": "ItemCurrency:995",
+  "generalStore": false,
+  "buysItems": true,
+  "replenishTime": 300000,
+  "items": [
+    {
+      "id": 1961,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 4565,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 7927,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 1037,
+      "amount": 100,
+      "price": 0
+    }
+  ]
+}

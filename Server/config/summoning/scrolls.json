@@ -1,0 +1,693 @@
+[
+  {
+    "name": "Howl scroll",
+    "scrollItemId": 12425,
+    "createXp": 0.1,
+    "useXp": 0.1,
+    "specialMovePoints": 3,
+    "requiredPouchItemIds": [
+      12047
+    ]
+  },
+  {
+    "name": "Dreadfowl strike scroll",
+    "scrollItemId": 12445,
+    "createXp": 0.1,
+    "useXp": 0.1,
+    "specialMovePoints": 3,
+    "requiredPouchItemIds": [
+      12043
+    ]
+  },
+  {
+    "name": "Fetch casket scroll",
+    "scrollItemId": 19621,
+    "createXp": 0.0,
+    "useXp": 0.0,
+    "specialMovePoints": 12,
+    "requiredPouchItemIds": [
+      19622
+    ]
+  },
+  {
+    "name": "Egg spawn scroll",
+    "scrollItemId": 12428,
+    "createXp": 0.2,
+    "useXp": 0.2,
+    "specialMovePoints": 6,
+    "requiredPouchItemIds": [
+      12059
+    ]
+  },
+  {
+    "name": "Slime spray scroll",
+    "scrollItemId": 12459,
+    "createXp": 0.2,
+    "useXp": 0.2,
+    "specialMovePoints": 3,
+    "requiredPouchItemIds": [
+      12019
+    ]
+  },
+  {
+    "name": "Stony shell scroll",
+    "scrollItemId": 12533,
+    "createXp": 0.2,
+    "useXp": 0.2,
+    "specialMovePoints": 12,
+    "requiredPouchItemIds": [
+      12009
+    ]
+  },
+  {
+    "name": "Pester scroll",
+    "scrollItemId": 12838,
+    "createXp": 0.5,
+    "useXp": 0.5,
+    "specialMovePoints": 3,
+    "requiredPouchItemIds": [
+      12778
+    ]
+  },
+  {
+    "name": "Electric lash scroll",
+    "scrollItemId": 12460,
+    "createXp": 0.5,
+    "useXp": 0.4,
+    "specialMovePoints": 6,
+    "requiredPouchItemIds": [
+      12049
+    ]
+  },
+  {
+    "name": "Venom shot scroll",
+    "scrollItemId": 12432,
+    "createXp": 0.9,
+    "useXp": 1.0,
+    "specialMovePoints": 6,
+    "requiredPouchItemIds": [
+      12055
+    ]
+  },
+  {
+    "name": "Fireball assault scroll",
+    "scrollItemId": 12839,
+    "createXp": 1.1,
+    "useXp": 1.1,
+    "specialMovePoints": 6,
+    "requiredPouchItemIds": [
+      12808
+    ]
+  },
+  {
+    "name": "Cheese feast scroll",
+    "scrollItemId": 12430,
+    "createXp": 2.3,
+    "useXp": 2.3,
+    "specialMovePoints": 6,
+    "requiredPouchItemIds": [
+      12067
+    ]
+  },
+  {
+    "name": "Sandstorm scroll",
+    "scrollItemId": 12446,
+    "createXp": 2.5,
+    "useXp": 2.5,
+    "specialMovePoints": 6,
+    "requiredPouchItemIds": [
+      12063
+    ]
+  },
+  {
+    "name": "Generate compost scroll",
+    "scrollItemId": 12440,
+    "createXp": 0.6,
+    "useXp": 0.6,
+    "specialMovePoints": 12,
+    "requiredPouchItemIds": [
+      12091
+    ]
+  },
+  {
+    "name": "Explode scroll",
+    "scrollItemId": 12834,
+    "createXp": 2.9,
+    "useXp": 2.9,
+    "specialMovePoints": 3,
+    "requiredPouchItemIds": [
+      12800
+    ]
+  },
+  {
+    "name": "Vampire touch scroll",
+    "scrollItemId": 12447,
+    "createXp": 1.5,
+    "useXp": 1.6,
+    "specialMovePoints": 4,
+    "requiredPouchItemIds": [
+      12053
+    ]
+  },
+  {
+    "name": "Insane ferocity scroll",
+    "scrollItemId": 12433,
+    "createXp": 1.6,
+    "useXp": 1.6,
+    "specialMovePoints": 12,
+    "requiredPouchItemIds": [
+      12065
+    ]
+  },
+  {
+    "name": "Multichop scroll",
+    "scrollItemId": 12429,
+    "createXp": 0.7,
+    "useXp": 0.7,
+    "specialMovePoints": 3,
+    "requiredPouchItemIds": [
+      12021
+    ]
+  },
+  {
+    "name": "Call to arms scroll",
+    "scrollItemId": 12443,
+    "createXp": 0.7,
+    "useXp": 0.7,
+    "specialMovePoints": 3,
+    "requiredPouchItemIds": [
+      12818,
+      12814,
+      12780,
+      12798
+    ]
+  },
+  {
+    "name": "Bronze bull rush scroll",
+    "scrollItemId": 12461,
+    "createXp": 3.6,
+    "useXp": 3.6,
+    "specialMovePoints": 6,
+    "requiredPouchItemIds": [
+      12073
+    ]
+  },
+  {
+    "name": "Unburden scroll",
+    "scrollItemId": 12431,
+    "createXp": 0.6,
+    "useXp": 0.6,
+    "specialMovePoints": 12,
+    "requiredPouchItemIds": [
+      12087
+    ]
+  },
+  {
+    "name": "Herbcall scroll",
+    "scrollItemId": 12422,
+    "createXp": 0.8,
+    "useXp": 0.8,
+    "specialMovePoints": 12,
+    "requiredPouchItemIds": [
+      12071
+    ]
+  },
+  {
+    "name": "Evil flames scroll",
+    "scrollItemId": 12448,
+    "createXp": 2.1,
+    "useXp": 2.1,
+    "specialMovePoints": 6,
+    "requiredPouchItemIds": [
+      12051
+    ]
+  },
+  {
+    "name": "Petrifying gaze scroll",
+    "scrollItemId": 12458,
+    "createXp": 0.9,
+    "useXp": 0.9,
+    "specialMovePoints": 3,
+    "requiredPouchItemIds": [
+      12095,
+      12097,
+      12099,
+      12101,
+      12103,
+      12105,
+      12107
+    ]
+  },
+  {
+    "name": "Iron bull rush scroll",
+    "scrollItemId": 12462,
+    "createXp": 4.6,
+    "useXp": 4.6,
+    "specialMovePoints": 6,
+    "requiredPouchItemIds": [
+      12075
+    ]
+  },
+  {
+    "name": "Iron within scroll",
+    "scrollItemId": 12828,
+    "createXp": 2.3,
+    "useXp": 2.3,
+    "specialMovePoints": 6,
+    "requiredPouchItemIds": [
+      12816
+    ]
+  },
+  {
+    "name": "Thieving fingers scroll",
+    "scrollItemId": 12426,
+    "createXp": 0.9,
+    "useXp": 0.9,
+    "specialMovePoints": 12,
+    "requiredPouchItemIds": [
+      12041
+    ]
+  },
+  {
+    "name": "Blood drain scroll",
+    "scrollItemId": 12444,
+    "createXp": 2.4,
+    "useXp": 2.5,
+    "specialMovePoints": 6,
+    "requiredPouchItemIds": [
+      12061
+    ]
+  },
+  {
+    "name": "Tireless run scroll",
+    "scrollItemId": 12441,
+    "createXp": 0.8,
+    "useXp": 0.8,
+    "specialMovePoints": 8,
+    "requiredPouchItemIds": [
+      12007
+    ]
+  },
+  {
+    "name": "Abyssal drain scroll",
+    "scrollItemId": 12454,
+    "createXp": 1.1,
+    "useXp": 1.1,
+    "specialMovePoints": 6,
+    "requiredPouchItemIds": [
+      12035
+    ]
+  },
+  {
+    "name": "Dissolve scroll",
+    "scrollItemId": 12453,
+    "createXp": 5.5,
+    "useXp": 5.5,
+    "specialMovePoints": 6,
+    "requiredPouchItemIds": [
+      12027
+    ]
+  },
+  {
+    "name": "Fish rain scroll",
+    "scrollItemId": 12424,
+    "createXp": 1.1,
+    "useXp": 1.1,
+    "specialMovePoints": 12,
+    "requiredPouchItemIds": [
+      12531
+    ]
+  },
+  {
+    "name": "Steel bull rush scroll",
+    "scrollItemId": 12463,
+    "createXp": 5.6,
+    "useXp": 5.6,
+    "specialMovePoints": 6,
+    "requiredPouchItemIds": [
+      12077
+    ]
+  },
+  {
+    "name": "Ambush scroll",
+    "scrollItemId": 12836,
+    "createXp": 5.7,
+    "useXp": 5.7,
+    "specialMovePoints": 3,
+    "requiredPouchItemIds": [
+      12812
+    ]
+  },
+  {
+    "name": "Rending scroll",
+    "scrollItemId": 12840,
+    "createXp": 5.7,
+    "useXp": 5.7,
+    "specialMovePoints": 3,
+    "requiredPouchItemIds": [
+      12784
+    ]
+  },
+  {
+    "name": "Goad scroll",
+    "scrollItemId": 12835,
+    "createXp": 5.7,
+    "useXp": 5.7,
+    "specialMovePoints": 6,
+    "requiredPouchItemIds": [
+      12810
+    ]
+  },
+  {
+    "name": "Doomsphere scroll",
+    "scrollItemId": 12455,
+    "createXp": 5.8,
+    "useXp": 5.8,
+    "specialMovePoints": 3,
+    "requiredPouchItemIds": [
+      12023
+    ]
+  },
+  {
+    "name": "Dust cloud scroll",
+    "scrollItemId": 12468,
+    "createXp": 3.0,
+    "useXp": 3.1,
+    "specialMovePoints": 6,
+    "requiredPouchItemIds": [
+      12085
+    ]
+  },
+  {
+    "name": "Abyssal stealth scroll",
+    "scrollItemId": 12427,
+    "createXp": 1.9,
+    "useXp": 1.9,
+    "specialMovePoints": 20,
+    "requiredPouchItemIds": [
+      12037
+    ]
+  },
+  {
+    "name": "Oph. incubation scroll",
+    "scrollItemId": 12436,
+    "createXp": 3.1,
+    "useXp": 3.2,
+    "specialMovePoints": 3,
+    "requiredPouchItemIds": [
+      12015
+    ]
+  },
+  {
+    "name": "Poisonous blast scroll",
+    "scrollItemId": 12467,
+    "createXp": 3.2,
+    "useXp": 3.2,
+    "specialMovePoints": 6,
+    "requiredPouchItemIds": [
+      12045
+    ]
+  },
+  {
+    "name": "Mith bull rush scroll",
+    "scrollItemId": 12464,
+    "createXp": 6.6,
+    "useXp": 6.6,
+    "specialMovePoints": 6,
+    "requiredPouchItemIds": [
+      12079
+    ]
+  },
+  {
+    "name": "Toad bark scroll",
+    "scrollItemId": 12452,
+    "createXp": 1.0,
+    "useXp": 1.0,
+    "specialMovePoints": 6,
+    "requiredPouchItemIds": [
+      12123
+    ]
+  },
+  {
+    "name": "Testudo scroll",
+    "scrollItemId": 12439,
+    "createXp": 0.7,
+    "useXp": 0.7,
+    "specialMovePoints": 20,
+    "requiredPouchItemIds": [
+      12031
+    ]
+  },
+  {
+    "name": "Swallow whole scroll",
+    "scrollItemId": 12438,
+    "createXp": 1.4,
+    "useXp": 1.4,
+    "specialMovePoints": 3,
+    "requiredPouchItemIds": [
+      12029
+    ]
+  },
+  {
+    "name": "Fruitfall scroll",
+    "scrollItemId": 12423,
+    "createXp": 1.4,
+    "useXp": 1.4,
+    "specialMovePoints": 6,
+    "requiredPouchItemIds": [
+      12033
+    ]
+  },
+  {
+    "name": "Famine scroll",
+    "scrollItemId": 12830,
+    "createXp": 1.5,
+    "useXp": 1.5,
+    "specialMovePoints": 12,
+    "requiredPouchItemIds": [
+      12820
+    ]
+  },
+  {
+    "name": "Arctic blast scroll",
+    "scrollItemId": 12451,
+    "createXp": 1.1,
+    "useXp": 1.1,
+    "specialMovePoints": 6,
+    "requiredPouchItemIds": [
+      12057
+    ]
+  },
+  {
+    "name": "Rise from the ashes scroll",
+    "scrollItemId": 14622,
+    "createXp": 8.0,
+    "useXp": 5.0,
+    "specialMovePoints": 5,
+    "requiredPouchItemIds": [
+      14623
+    ]
+  },
+  {
+    "name": "Volcanic str. scroll",
+    "scrollItemId": 12826,
+    "createXp": 7.3,
+    "useXp": 7.3,
+    "specialMovePoints": 12,
+    "requiredPouchItemIds": [
+      12792
+    ]
+  },
+  {
+    "name": "Crushing claw scroll",
+    "scrollItemId": 12449,
+    "createXp": 3.7,
+    "useXp": 3.7,
+    "specialMovePoints": 6,
+    "requiredPouchItemIds": [
+      12069
+    ]
+  },
+  {
+    "name": "Mantis strike scroll",
+    "scrollItemId": 12450,
+    "createXp": 3.7,
+    "useXp": 3.8,
+    "specialMovePoints": 6,
+    "requiredPouchItemIds": [
+      12011
+    ]
+  },
+  {
+    "name": "Inferno scroll",
+    "scrollItemId": 12841,
+    "createXp": 1.5,
+    "useXp": 1.5,
+    "specialMovePoints": 6,
+    "requiredPouchItemIds": [
+      12782
+    ]
+  },
+  {
+    "name": "Addy bull rush scroll",
+    "scrollItemId": 12465,
+    "createXp": 7.6,
+    "useXp": 7.6,
+    "specialMovePoints": 6,
+    "requiredPouchItemIds": [
+      12081
+    ]
+  },
+  {
+    "name": "Deadly claw scroll",
+    "scrollItemId": 12831,
+    "createXp": 11.4,
+    "useXp": 11.7,
+    "specialMovePoints": 6,
+    "requiredPouchItemIds": [
+      12794
+    ]
+  },
+  {
+    "name": "Acorn missile scroll",
+    "scrollItemId": 12457,
+    "createXp": 1.6,
+    "useXp": 1.6,
+    "specialMovePoints": 6,
+    "requiredPouchItemIds": [
+      12013
+    ]
+  },
+  {
+    "name": "Titan\u0027s con. scroll",
+    "scrollItemId": 12824,
+    "createXp": 7.9,
+    "useXp": 7.9,
+    "specialMovePoints": 20,
+    "requiredPouchItemIds": [
+      12802,
+      12806,
+      12804
+    ]
+  },
+  {
+    "name": "Regrowth scroll",
+    "scrollItemId": 12442,
+    "createXp": 1.6,
+    "useXp": 1.6,
+    "specialMovePoints": 6,
+    "requiredPouchItemIds": [
+      12025
+    ]
+  },
+  {
+    "name": "Spike shot scroll",
+    "scrollItemId": 12456,
+    "createXp": 4.1,
+    "useXp": 4.2,
+    "specialMovePoints": 6,
+    "requiredPouchItemIds": [
+      12017
+    ]
+  },
+  {
+    "name": "Ebon thunder scroll",
+    "scrollItemId": 12837,
+    "createXp": 8.6,
+    "useXp": 8.6,
+    "specialMovePoints": 4,
+    "requiredPouchItemIds": [
+      12788
+    ]
+  },
+  {
+    "name": "Swamp plague scroll",
+    "scrollItemId": 12832,
+    "createXp": 4.1,
+    "useXp": 4.2,
+    "specialMovePoints": 6,
+    "requiredPouchItemIds": [
+      12776
+    ]
+  },
+  {
+    "name": "Rune bull rush scroll",
+    "scrollItemId": 12466,
+    "createXp": 8.6,
+    "useXp": 8.6,
+    "specialMovePoints": 6,
+    "requiredPouchItemIds": [
+      12083
+    ]
+  },
+  {
+    "name": "Healing aura scroll",
+    "scrollItemId": 12434,
+    "createXp": 1.8,
+    "useXp": 1.8,
+    "specialMovePoints": 20,
+    "requiredPouchItemIds": [
+      12039
+    ]
+  },
+  {
+    "name": "Boil scroll",
+    "scrollItemId": 12833,
+    "createXp": 8.9,
+    "useXp": 8.9,
+    "specialMovePoints": 6,
+    "requiredPouchItemIds": [
+      12786
+    ]
+  },
+  {
+    "name": "Magic focus scroll",
+    "scrollItemId": 12437,
+    "createXp": 4.6,
+    "useXp": 4.6,
+    "specialMovePoints": 20,
+    "requiredPouchItemIds": [
+      12089
+    ]
+  },
+  {
+    "name": "Essence shipment scroll",
+    "scrollItemId": 12827,
+    "createXp": 1.9,
+    "useXp": 1.9,
+    "specialMovePoints": 6,
+    "requiredPouchItemIds": [
+      12796
+    ]
+  },
+  {
+    "name": "Iron within scroll",
+    "scrollItemId": 12828,
+    "createXp": 4.7,
+    "useXp": 4.8,
+    "specialMovePoints": 12,
+    "requiredPouchItemIds": [
+      12822
+    ]
+  },
+  {
+    "name": "Winter storage scroll",
+    "scrollItemId": 12435,
+    "createXp": 4.8,
+    "useXp": 4.8,
+    "specialMovePoints": 12,
+    "requiredPouchItemIds": [
+      12093
+    ]
+  },
+  {
+    "name": "Steel of legends scroll",
+    "scrollItemId": 12825,
+    "createXp": 4.9,
+    "useXp": 5.0,
+    "specialMovePoints": 12,
+    "requiredPouchItemIds": [
+      12790
+    ]
+  }
+]

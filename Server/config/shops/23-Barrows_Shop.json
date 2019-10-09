@@ -1,0 +1,135 @@
+{
+  "id": 23,
+  "name": "Barrows Shop",
+  "currency": "ItemCurrency:995",
+  "generalStore": false,
+  "buysItems": true,
+  "replenishTime": 300000,
+  "items": [
+    {
+      "id": 4708,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 4710,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 4712,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 4714,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 4716,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 4718,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 4720,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 4722,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 4724,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 4726,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 4728,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 4730,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 4732,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 4734,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 4736,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 4738,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 4745,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 4747,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 4749,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 4751,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 4753,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 4755,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 4757,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 4759,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 4740,
+      "amount": 100000,
+      "price": 0
+    }
+  ]
+}

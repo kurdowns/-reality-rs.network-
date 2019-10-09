@@ -1,0 +1,45 @@
+{
+  "id": 136,
+  "name": "Zombies Advanced Melee",
+  "currency": "ZombieMinigameCurrency",
+  "generalStore": false,
+  "buysItems": false,
+  "replenishTime": 300000,
+  "items": [
+    {
+      "id": 13462,
+      "amount": 100,
+      "price": 30
+    },
+    {
+      "id": 13442,
+      "amount": 100,
+      "price": 30
+    },
+    {
+      "id": 13429,
+      "amount": 100,
+      "price": 25
+    },
+    {
+      "id": 13458,
+      "amount": 100,
+      "price": 70
+    },
+    {
+      "id": 13460,
+      "amount": 100,
+      "price": 70
+    },
+    {
+      "id": 13459,
+      "amount": 100,
+      "price": 25
+    },
+    {
+      "id": 13444,
+      "amount": 100,
+      "price": 45
+    }
+  ]
+}

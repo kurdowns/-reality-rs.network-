@@ -1,0 +1,9 @@
+{
+  "name": "objects-well",
+  "enabled": true,
+  "author": "Stuart",
+  "version": 1.0,
+  "scripts": [
+    "cape-stand.rb"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": 74,
+  "name": "Zombie Obliteration Shop",
+  "currency": "ItemCurrency:995",
+  "generalStore": false,
+  "buysItems": true,
+  "replenishTime": 300000,
+  "items": [
+    {
+      "id": 16705,
+      "amount": 50,
+      "price": 0
+    },
+    {
+      "id": 17253,
+      "amount": 50,
+      "price": 0
+    },
+    {
+      "id": 16683,
+      "amount": 50,
+      "price": 0
+    },
+    {
+      "id": 16419,
+      "amount": 5,
+      "price": 0
+    },
+    {
+      "id": 16949,
+      "amount": 5,
+      "price": 0
+    },
+    {
+      "id": 16967,
+      "amount": 5,
+      "price": 0
+    },
+    {
+      "id": 18175,
+      "amount": 1250,
+      "price": 0
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": 19,
+  "name": "Doug's tool shop",
+  "currency": "ItemCurrency:995",
+  "generalStore": false,
+  "buysItems": false,
+  "replenishTime": 300000,
+  "items": [
+    {
+      "id": 6713,
+      "amount": 100
+    },
+    {
+      "id": 15253,
+      "amount": 100
+    },
+    {
+      "id": 14821,
+      "amount": 100
+    }
+  ]
+}

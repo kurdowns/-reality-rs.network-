@@ -1,0 +1,165 @@
+{
+  "id": 8,
+  "name": "Skilling Store",
+  "currency": "ItemCurrency:995",
+  "generalStore": false,
+  "buysItems": true,
+  "replenishTime": 300000,
+  "items": [
+    {
+      "id": 952,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 590,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 1755,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 2347,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 946,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 1349,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 1359,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 1267,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 1275,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 228,
+      "amount": 100000,
+      "price": 0
+    },
+    {
+      "id": 1623,
+      "amount": 10000,
+      "price": 0
+    },
+    {
+      "id": 1621,
+      "amount": 10000,
+      "price": 0
+    },
+    {
+      "id": 1619,
+      "amount": 10000,
+      "price": 0
+    },
+    {
+      "id": 1617,
+      "amount": 10000,
+      "price": 0
+    },
+    {
+      "id": 1631,
+      "amount": 10000,
+      "price": 0
+    },
+    {
+      "id": 1745,
+      "amount": 10000,
+      "price": 0
+    },
+    {
+      "id": 2505,
+      "amount": 10000,
+      "price": 0
+    },
+    {
+      "id": 2507,
+      "amount": 10000,
+      "price": 0
+    },
+    {
+      "id": 2509,
+      "amount": 10000,
+      "price": 0
+    },
+    {
+      "id": 1733,
+      "amount": 1000,
+      "price": 0
+    },
+    {
+      "id": 303,
+      "amount": 1000,
+      "price": 0
+    },
+    {
+      "id": 311,
+      "amount": 1000,
+      "price": 0
+    },
+    {
+      "id": 301,
+      "amount": 1000,
+      "price": 0
+    },
+    {
+      "id": 305,
+      "amount": 1000,
+      "price": 0
+    },
+    {
+      "id": 1437,
+      "amount": 100000,
+      "price": 0
+    },
+    {
+      "id": 5509,
+      "amount": 1000,
+      "price": 0
+    },
+    {
+      "id": 5510,
+      "amount": 1000,
+      "price": 0
+    },
+    {
+      "id": 5512,
+      "amount": 1000,
+      "price": 0
+    },
+    {
+      "id": 1778,
+      "amount": 100000,
+      "price": 90
+    },
+    {
+      "id": 4,
+      "amount": 100000,
+      "price": 100
+    },
+    {
+      "id": 1785,
+      "amount": 500000,
+      "price": 50
+    }
+  ]
+}

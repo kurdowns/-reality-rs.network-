@@ -1,0 +1,160 @@
+{
+  "id": 99,
+  "name": "Magic Shop",
+  "currency": "ItemCurrency:995",
+  "generalStore": false,
+  "buysItems": true,
+  "replenishTime": 300000,
+  "items": [
+    {
+      "id": 4089,
+      "amount": 200,
+      "price": 0
+    },
+    {
+      "id": 4091,
+      "amount": 200,
+      "price": 0
+    },
+    {
+      "id": 4093,
+      "amount": 200,
+      "price": 0
+    },
+    {
+      "id": 4099,
+      "amount": 200,
+      "price": 0
+    },
+    {
+      "id": 4101,
+      "amount": 200,
+      "price": 0
+    },
+    {
+      "id": 4103,
+      "amount": 200,
+      "price": 0
+    },
+    {
+      "id": 4109,
+      "amount": 200,
+      "price": 0
+    },
+    {
+      "id": 4111,
+      "amount": 200,
+      "price": 0
+    },
+    {
+      "id": 4113,
+      "amount": 200,
+      "price": 0
+    },
+    {
+      "id": 7398,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 7399,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 7400,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 6916,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 6918,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 6920,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 6922,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 6924,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 6137,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 6139,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 6141,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 6147,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 3385,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 3387,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 3389,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 6106,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 6107,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 6108,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 6109,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 6110,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 6111,
+      "amount": 100,
+      "price": 0
+    }
+  ]
+}

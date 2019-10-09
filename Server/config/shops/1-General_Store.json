@@ -1,0 +1,100 @@
+{
+  "id": 1,
+  "name": "General Store",
+  "currency": "ItemCurrency:995",
+  "generalStore": true,
+  "buysItems": true,
+  "replenishTime": 300000,
+  "items": [
+    {
+      "id": 1925,
+      "amount": 1000,
+      "price": 0
+    },
+    {
+      "id": 8008,
+      "amount": 1000,
+      "price": 0
+    },
+    {
+      "id": 590,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 1755,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 2347,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 952,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 946,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 228,
+      "amount": 10000,
+      "price": 0
+    },
+    {
+      "id": 1540,
+      "amount": 30,
+      "price": 0
+    },
+    {
+      "id": 1523,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 7947,
+      "amount": 10000,
+      "price": 0
+    },
+    {
+      "id": 385,
+      "amount": 100000,
+      "price": 0
+    },
+    {
+      "id": 386,
+      "amount": 100000,
+      "price": 0
+    },
+    {
+      "id": 314,
+      "amount": 100000,
+      "price": 0
+    },
+    {
+      "id": 2368,
+      "amount": 3,
+      "price": 0
+    },
+    {
+      "id": 954,
+      "amount": 10000,
+      "price": 0
+    },
+    {
+      "id": 9419,
+      "amount": 10000,
+      "price": 0
+    },
+    {
+      "id": 1,
+      "amount": 1000,
+      "price": 0
+    }
+  ]
+}

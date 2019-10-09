@@ -1,0 +1,170 @@
+{
+  "id": 4,
+  "name": "Armour Store",
+  "currency": "ItemCurrency:995",
+  "generalStore": false,
+  "buysItems": true,
+  "replenishTime": 300000,
+  "items": [
+    {
+      "id": 1153,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 1115,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 1067,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 1191,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 1157,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 1119,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 1069,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 1193,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 1165,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 1125,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 1077,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 1195,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 1159,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 1121,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 1071,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 1197,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 1161,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 1123,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 1073,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 1199,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 1163,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 1127,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 1079,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 1201,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 3749,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 3751,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 3753,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 3755,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 10828,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 5574,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 5575,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 5576,
+      "amount": 100,
+      "price": 0
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": 27,
+  "name": "Gnome store",
+  "currency": "ItemCurrency:995",
+  "generalStore": false,
+  "buysItems": true,
+  "replenishTime": 300000,
+  "items": [
+    {
+      "id": 9472,
+      "amount": 10000,
+      "price": 0
+    },
+    {
+      "id": 22215,
+      "amount": 100000,
+      "price": 0
+    },
+    {
+      "id": 22218,
+      "amount": 100000,
+      "price": 0
+    },
+    {
+      "id": 22216,
+      "amount": 100000,
+      "price": 0
+    },
+    {
+      "id": 22217,
+      "amount": 100000,
+      "price": 0
+    }
+  ]
+}

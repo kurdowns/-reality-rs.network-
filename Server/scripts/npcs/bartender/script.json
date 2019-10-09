@@ -1,0 +1,9 @@
+{
+  "name": "npcs-bartender",
+  "enabled": true,
+  "author": "Stuart",
+  "version": 1.0,
+  "scripts": [
+    "bartender.rb"
+  ]
+}

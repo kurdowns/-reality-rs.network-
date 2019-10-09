@@ -1,0 +1,2039 @@
+[
+    {
+        "name": "Spirit wolf pouch",
+        "actionButton": 93072,
+        "levelRequirement": 1,
+        "xpGained": 4.8,
+        "pouchItemId": 12047,
+        "itemsRequired": [
+            {
+                "id": 12155,
+                "amount": 1
+            },
+            {
+                "id": 12183,
+                "amount": 7
+            },
+            {
+                "id": 12158,
+                "amount": 1
+            },
+            {
+                "id": 2859,
+                "amount": 1
+            }
+        ],
+        "familiarId": 6829
+    },
+    {
+        "name": "Dreadfowl pouch",
+        "actionButton": 93083,
+        "levelRequirement": 4,
+        "xpGained": 9.3,
+        "pouchItemId": 12043,
+        "itemsRequired": [
+            {
+                "id": 12155,
+                "amount": 1
+            },
+            {
+                "id": 12183,
+                "amount": 8
+            },
+            {
+                "id": 12158,
+                "amount": 1
+            },
+            {
+                "id": 2138,
+                "amount": 1
+            }
+        ],
+        "familiarId": 6825
+    },
+    {
+        "name": "Spirit spider pouch",
+        "actionButton": 93094,
+        "levelRequirement": 10,
+        "xpGained": 12.6,
+        "pouchItemId": 12059,
+        "itemsRequired": [
+            {
+                "id": 12155,
+                "amount": 1
+            },
+            {
+                "id": 12183,
+                "amount": 8
+            },
+            {
+                "id": 12158,
+                "amount": 1
+            },
+            {
+                "id": 6291,
+                "amount": 1
+            }
+        ],
+        "familiarId": 6841
+    },
+    {
+        "name": "Thorny snail pouch",
+        "actionButton": 93105,
+        "levelRequirement": 13,
+        "xpGained": 12.6,
+        "pouchItemId": 12019,
+        "itemsRequired": [
+            {
+                "id": 12155,
+                "amount": 1
+            },
+            {
+                "id": 12183,
+                "amount": 9
+            },
+            {
+                "id": 12158,
+                "amount": 1
+            },
+            {
+                "id": 3363,
+                "amount": 1
+            }
+        ],
+        "familiarId":6806
+    },
+    {
+        "name": "Granite crab pouch",
+        "actionButton": 93116,
+        "levelRequirement": 16,
+        "xpGained": 21.6,
+        "pouchItemId": 12009,
+        "itemsRequired": [
+            {
+                "id": 12155,
+                "amount": 1
+            },
+            {
+                "id": 12183,
+                "amount": 7
+            },
+            {
+                "id": 12158,
+                "amount": 1
+            },
+            {
+                "id": 440,
+                "amount": 1
+            }
+        ],
+        "familiarId": 6796
+    },
+    {
+        "name": "Spirit mosquito pouch",
+        "actionButton": 93127,
+        "levelRequirement": 17,
+        "xpGained": 46.5,
+        "pouchItemId": 12778,
+        "itemsRequired": [
+            {
+                "id": 12155,
+                "amount": 1
+            },
+            {
+                "id": 12183,
+                "amount": 1
+            },
+            {
+                "id": 12158,
+                "amount": 1
+            },
+            {
+                "id": 6319,
+                "amount": 1
+            }
+        ],
+        "familiarId": 7331
+    },
+    {
+        "name": "Desert wyrm pouch",
+        "actionButton": 93138,
+        "levelRequirement": 18,
+        "xpGained": 31.2,
+        "pouchItemId": 12049,
+        "itemsRequired": [
+            {
+                "id": 12155,
+                "amount": 1
+            },
+            {
+                "id": 12183,
+                "amount": 45
+            },
+            {
+                "id": 12159,
+                "amount": 1
+            },
+            {
+                "id": 1783,
+                "amount": 1
+            }
+        ],
+        "familiarId": 6831
+    },
+    {
+        "name": "Spirit scorpion pouch",
+        "actionButton": 93149,
+        "levelRequirement": 19,
+        "xpGained": 83.2,
+        "pouchItemId": 12055,
+        "itemsRequired": [
+            {
+                "id": 12155,
+                "amount": 1
+            },
+            {
+                "id": 12183,
+                "amount": 57
+            },
+            {
+                "id": 12160,
+                "amount": 1
+            },
+            {
+                "id": 3095,
+                "amount": 1
+            }
+        ],
+        "familiarId": 6837
+    },
+    {
+        "name": "Spirit tz-kih pouch",
+        "actionButton": 93160,
+        "levelRequirement": 22,
+        "xpGained": 96.8,
+        "pouchItemId": 12808,
+        "itemsRequired": [
+            {
+                "id": 12155,
+                "amount": 1
+            },
+            {
+                "id": 12183,
+                "amount": 64
+            },
+            {
+                "id": 12160,
+                "amount": 1
+            },
+            {
+                "id": 12168,
+                "amount": 1
+            }
+        ],
+        "familiarId": 7361
+    },
+    {
+        "name": "Albino rat pouch",
+        "actionButton": 93171,
+        "levelRequirement": 23,
+        "xpGained": 202.4,
+        "pouchItemId": 12067,
+        "itemsRequired": [
+            {
+                "id": 12155,
+                "amount": 1
+            },
+            {
+                "id": 12183,
+                "amount": 75
+            },
+            {
+                "id": 12163,
+                "amount": 1
+            },
+            {
+                "id": 2134,
+                "amount": 1
+            }
+        ],
+        "familiarId": 6846
+    },
+    {
+        "name": "Spirit kalphite pouch",
+        "actionButton": 91382,
+        "levelRequirement": 25,
+        "xpGained": 220.0,
+        "pouchItemId": 12063,
+        "itemsRequired": [
+            {
+                "id": 12155,
+                "amount": 1
+            },
+            {
+                "id": 12183,
+                "amount": 51
+            },
+            {
+                "id": 12163,
+                "amount": 1
+            },
+            {
+                "id": 3138,
+                "amount": 1
+            }
+        ],
+        "familiarId": 6994
+    },
+    {
+        "name": "Compost mound pouch",
+        "actionButton": 93193,
+        "levelRequirement": 28,
+        "xpGained": 49.8,
+        "pouchItemId": 12091,
+        "itemsRequired": [
+            {
+                "id": 12155,
+                "amount": 1
+            },
+            {
+                "id": 12183,
+                "amount": 47
+            },
+            {
+                "id": 12159,
+                "amount": 1
+            },
+            {
+                "id": 6032,
+                "amount": 1
+            }
+        ],
+        "familiarId": 6871
+    },
+    {
+        "name": "Giant chinchompa pouch",
+        "actionButton": 93204,
+        "levelRequirement": 29,
+        "xpGained": 255.2,
+        "pouchItemId": 12800,
+        "itemsRequired": [
+            {
+                "id": 12155,
+                "amount": 1
+            },
+            {
+                "id": 12183,
+                "amount": 84
+            },
+            {
+                "id": 12163,
+                "amount": 1
+            },
+            {
+                "id": 9976,
+                "amount": 1
+            }
+        ],
+        "familiarId": 7353
+    },
+    {
+        "name": "Vampire bat pouch",
+        "actionButton": 93215,
+        "levelRequirement": 31,
+        "xpGained": 136.0,
+        "pouchItemId": 12053,
+        "itemsRequired": [
+            {
+                "id": 12155,
+                "amount": 1
+            },
+            {
+                "id": 12183,
+                "amount": 81
+            },
+            {
+                "id": 12160,
+                "amount": 1
+            },
+            {
+                "id": 3325,
+                "amount": 1
+            }
+        ],
+        "familiarId": 6835
+    },
+    {
+        "name": "Honey badger pouch",
+        "actionButton": 93226,
+        "levelRequirement": 32,
+        "xpGained": 140.8,
+        "pouchItemId": 12065,
+        "itemsRequired": [
+            {
+                "id": 12155,
+                "amount": 1
+            },
+            {
+                "id": 12183,
+                "amount": 84
+            },
+            {
+                "id": 12160,
+                "amount": 1
+            },
+            {
+                "id": 12156,
+                "amount": 1
+            }
+        ],
+        "familiarId": 6845
+    },
+    {
+        "name": "Beaver pouch",
+        "actionButton": 93237,
+        "levelRequirement": 33,
+        "xpGained": 57.6,
+        "pouchItemId": 12021,
+        "itemsRequired": [
+            {
+                "id": 12155,
+                "amount": 1
+            },
+            {
+                "id": 12183,
+                "amount": 72
+            },
+            {
+                "id": 12159,
+                "amount": 1
+            },
+            {
+                "id": 1519,
+                "amount": 1
+            }
+        ],
+        "familiarId": 6808
+    },
+    {
+        "name": "Void ravager pouch",
+        "actionButton": 93248,
+        "levelRequirement": 34,
+        "xpGained": 59.6,
+        "pouchItemId": 12818,
+        "itemsRequired": [
+            {
+                "id": 12155,
+                "amount": 1
+            },
+            {
+                "id": 12183,
+                "amount": 74
+            },
+            {
+                "id": 12163,
+                "amount": 1
+            },
+            {
+                "id": 12164,
+                "amount": 1
+            }
+        ],
+        "familiarId": 7370
+    },
+    {
+        "name": "Void spinner pouch",
+        "actionButton": 94003,
+        "levelRequirement": 34,
+        "xpGained": 59.6,
+        "pouchItemId": 12780,
+        "itemsRequired": [
+            {
+                "id": 12155,
+                "amount": 1
+            },
+            {
+                "id": 12183,
+                "amount": 74
+            },
+            {
+                "id": 12163,
+                "amount": 1
+            },
+            {
+                "id": 12165,
+                "amount": 1
+            }
+        ],
+        "familiarId": 7333
+    },
+    {
+        "name": "Void torcher pouch",
+        "actionButton": 94014,
+        "levelRequirement": 34,
+        "xpGained": 59.6,
+        "pouchItemId": 12798,
+        "itemsRequired": [
+            {
+                "id": 12155,
+                "amount": 1
+            },
+            {
+                "id": 12183,
+                "amount": 74
+            },
+            {
+                "id": 12163,
+                "amount": 1
+            },
+            {
+                "id": 12166,
+                "amount": 1
+            }
+        ],
+        "familiarId": 7351
+    },
+    {
+        "name": "Void shifter pouch",
+        "actionButton": 94025,
+        "levelRequirement": 34,
+        "xpGained": 59.6,
+        "pouchItemId": 12814,
+        "itemsRequired": [
+            {
+                "id": 12155,
+                "amount": 1
+            },
+            {
+                "id": 12183,
+                "amount": 74
+            },
+            {
+                "id": 12163,
+                "amount": 1
+            },
+            {
+                "id": 12167,
+                "amount": 1
+            }
+        ],
+        "familiarId": 7367
+    },
+    {
+        "name": "Bronze minotaur pouch",
+        "actionButton": 94036,
+        "levelRequirement": 36,
+        "xpGained": 316.8,
+        "pouchItemId": 12073,
+        "itemsRequired": [
+            {
+                "id": 12155,
+                "amount": 1
+            },
+            {
+                "id": 12183,
+                "amount": 102
+            },
+            {
+                "id": 12163,
+                "amount": 1
+            },
+            {
+                "id": 2349,
+                "amount": 1
+            }
+        ],
+        "familiarId": 6853
+    },
+    {
+        "name": "Bull ant pouch",
+        "actionButton": 94047,
+        "levelRequirement": 40,
+        "xpGained": 52.8,
+        "pouchItemId": 12087,
+        "itemsRequired": [
+            {
+                "id": 12155,
+                "amount": 1
+            },
+            {
+                "id": 12183,
+                "amount": 11
+            },
+            {
+                "id": 12158,
+                "amount": 1
+            },
+            {
+                "id": 6010,
+                "amount": 1
+            }
+        ],
+        "familiarId": 6867
+    },
+    {
+        "name": "Macaw pouch",
+        "actionButton": 94058,
+        "levelRequirement": 41,
+        "xpGained": 72.4,
+        "pouchItemId": 12071,
+        "itemsRequired": [
+            {
+                "id": 12155,
+                "amount": 1
+            },
+            {
+                "id": 12183,
+                "amount": 78
+            },
+            {
+                "id": 12159,
+                "amount": 1
+            },
+            {
+                "id": 249,
+                "amount": 1
+            }
+        ],
+        "familiarId": 6851
+    },
+    {
+        "name": "Evil turnip pouch",
+        "actionButton": 94069,
+        "levelRequirement": 42,
+        "xpGained": 184.8,
+        "pouchItemId": 12051,
+        "itemsRequired": [
+            {
+                "id": 12155,
+                "amount": 1
+            },
+            {
+                "id": 12183,
+                "amount": 104
+            },
+            {
+                "id": 12160,
+                "amount": 1
+            },
+            {
+                "id": 12153,
+                "amount": 1
+            }
+        ],
+        "familiarId": 6833
+    },
+    {
+        "name": "Sp. cockatrice pouch",
+        "actionButton": 94080,
+        "levelRequirement": 43,
+        "xpGained": 75.2,
+        "pouchItemId": 12095,
+        "itemsRequired": [
+            {
+                "id": 12155,
+                "amount": 1
+            },
+            {
+                "id": 12183,
+                "amount": 88
+            },
+            {
+                "id": 12159,
+                "amount": 1
+            },
+            {
+                "id": 12109,
+                "amount": 1
+            }
+        ],
+        "familiarId": 6875
+    },
+    {
+        "name": "Sp. guthatrice pouch",
+        "actionButton": 94091,
+        "levelRequirement": 43,
+        "xpGained": 75.2,
+        "pouchItemId": 12097,
+        "itemsRequired": [
+            {
+                "id": 12155,
+                "amount": 1
+            },
+            {
+                "id": 12183,
+                "amount": 88
+            },
+            {
+                "id": 12159,
+                "amount": 1
+            },
+            {
+                "id": 12111,
+                "amount": 1
+            }
+        ],
+        "familiarId": 6877
+    },
+    {
+        "name": "Sp. saratrice pouch",
+        "actionButton": 94102,
+        "levelRequirement": 43,
+        "xpGained": 75.2,
+        "pouchItemId": 12099,
+        "itemsRequired": [
+            {
+                "id": 12155,
+                "amount": 1
+            },
+            {
+                "id": 12183,
+                "amount": 88
+            },
+            {
+                "id": 12159,
+                "amount": 1
+            },
+            {
+                "id": 12113,
+                "amount": 1
+            }
+        ],
+        "familiarId": 6879
+    },
+    {
+        "name": "Sp. zamatrice pouch",
+        "actionButton": 94113,
+        "levelRequirement": 43,
+        "xpGained": 75.2,
+        "pouchItemId": 12101,
+        "itemsRequired": [
+            {
+                "id": 12155,
+                "amount": 1
+            },
+            {
+                "id": 12183,
+                "amount": 88
+            },
+            {
+                "id": 12159,
+                "amount": 1
+            },
+            {
+                "id": 12115,
+                "amount": 1
+            }
+        ],
+        "familiarId": 6881
+    },
+    {
+        "name": "Sp. pengatrice pouch",
+        "actionButton": 94124,
+        "levelRequirement": 43,
+        "xpGained": 75.2,
+        "pouchItemId": 12103,
+        "itemsRequired": [
+            {
+                "id": 12155,
+                "amount": 1
+            },
+            {
+                "id": 12183,
+                "amount": 88
+            },
+            {
+                "id": 12159,
+                "amount": 1
+            },
+            {
+                "id": 12117,
+                "amount": 1
+            }
+        ],
+        "familiarId":6883
+    },
+    {
+        "name": "Sp. coraxatrice pouch",
+        "actionButton": 94135,
+        "levelRequirement": 43,
+        "xpGained": 75.2,
+        "pouchItemId": 12105,
+        "itemsRequired": [
+            {
+                "id": 12155,
+                "amount": 1
+            },
+            {
+                "id": 12183,
+                "amount": 88
+            },
+            {
+                "id": 12159,
+                "amount": 1
+            },
+            {
+                "id": 12119,
+                "amount": 1
+            }
+        ],
+        "familiarId":6885
+    },
+    {
+        "name": "Sp. vulatrice pouch",
+        "actionButton": 94146,
+        "levelRequirement": 43,
+        "xpGained": 75.2,
+        "pouchItemId": 12107,
+        "itemsRequired": [
+            {
+                "id": 12155,
+                "amount": 1
+            },
+            {
+                "id": 12183,
+                "amount": 88
+            },
+            {
+                "id": 12159,
+                "amount": 1
+            },
+            {
+                "id": 12121,
+                "amount": 1
+            }
+        ],
+        "familiarId":6887
+    },
+    {
+        "name": "Iron minotaur pouch",
+        "actionButton": 94157,
+        "levelRequirement": 46,
+        "xpGained": 404.8,
+        "pouchItemId": 12075,
+        "itemsRequired": [
+            {
+                "id": 12155,
+                "amount": 1
+            },
+            {
+                "id": 12183,
+                "amount": 125
+            },
+            {
+                "id": 12163,
+                "amount": 1
+            },
+            {
+                "id": 2351,
+                "amount": 1
+            }
+        ],
+        "familiarId": 6855
+    },
+    {
+        "name": "Pyrelord pouch",
+        "actionButton": 94168,
+        "levelRequirement": 46,
+        "xpGained": 202.4,
+        "pouchItemId": 12816,
+        "itemsRequired": [
+            {
+                "id": 12155,
+                "amount": 1
+            },
+            {
+                "id": 12183,
+                "amount": 111
+            },
+            {
+                "id": 12160,
+                "amount": 1
+            },
+            {
+                "id": 590,
+                "amount": 1
+            }
+        ],
+        "familiarId": 7377
+    },
+    {
+        "name": "Magpie pouch",
+        "actionButton": 84179,
+        "levelRequirement": 47,
+        "xpGained": 83.2,
+        "pouchItemId": 12041,
+        "itemsRequired": [
+            {
+                "id": 12155,
+                "amount": 1
+            },
+            {
+                "id": 12183,
+                "amount": 88
+            },
+            {
+                "id": 12159,
+                "amount": 1
+            },
+            {
+                "id": 1635,
+                "amount": 1
+            }
+        ],
+        "familiarId":6062
+    },
+    {
+        "name": "Bloated leech pouch",
+        "actionButton": 94190,
+        "levelRequirement": 49,
+        "xpGained": 215.2,
+        "pouchItemId": 12061,
+        "itemsRequired": [
+            {
+                "id": 12155,
+                "amount": 1
+            },
+            {
+                "id": 12183,
+                "amount": 117
+            },
+            {
+                "id": 12160,
+                "amount": 1
+            },
+            {
+                "id": 2132,
+                "amount": 1
+            }
+        ],
+        "familiarId":6843
+    },
+    {
+        "name": "Spirit terrorbird pouch",
+        "actionButton": 94201,
+        "levelRequirement": 52,
+        "xpGained": 68.4,
+        "pouchItemId": 12007,
+        "itemsRequired": [
+            {
+                "id": 12155,
+                "amount": 1
+            },
+            {
+                "id": 12183,
+                "amount": 12
+            },
+            {
+                "id": 12158,
+                "amount": 1
+            },
+            {
+                "id": 9978,
+                "amount": 1
+            }
+        ],
+        "familiarId":6794
+    },
+    {
+        "name": "Abyssal parasite pouch",
+        "actionButton": 94212,
+        "levelRequirement": 54,
+        "xpGained": 94.8,
+        "pouchItemId": 12035,
+        "itemsRequired": [
+            {
+                "id": 12155,
+                "amount": 1
+            },
+            {
+                "id": 12183,
+                "amount": 106
+            },
+            {
+                "id": 12159,
+                "amount": 1
+            },
+            {
+                "id": 12161,
+                "amount": 1
+            }
+        ],
+        "familiarId":6818
+    },
+    {
+        "name": "Spirit jelly pouch",
+        "actionButton": 94223,
+        "levelRequirement": 55,
+        "xpGained": 484.0,
+        "pouchItemId": 12027,
+        "itemsRequired": [
+            {
+                "id": 12155,
+                "amount": 1
+            },
+            {
+                "id": 12183,
+                "amount": 151
+            },
+            {
+                "id": 12163,
+                "amount": 1
+            },
+            {
+                "id": 1937,
+                "amount": 1
+            }
+        ],
+        "familiarId": 6992
+    },
+    {
+        "name": "Steel minotaur pouch",
+        "actionButton": 94234,
+        "levelRequirement": 56,
+        "xpGained": 492.8,
+        "pouchItemId": 12077,
+        "itemsRequired": [
+            {
+                "id": 12155,
+                "amount": 1
+            },
+            {
+                "id": 12183,
+                "amount": 109
+            },
+            {
+                "id": 12163,
+                "amount": 1
+            },
+            {
+                "id": 2353,
+                "amount": 1
+            }
+        ],
+        "familiarId":6857
+    },
+    {
+        "name": "Ibis pouch",
+        "actionButton": 94245,
+        "levelRequirement": 56,
+        "xpGained": 501.6,
+        "pouchItemId": 12531,
+        "itemsRequired": [
+            {
+                "id": 12155,
+                "amount": 1
+            },
+            {
+                "id": 12183,
+                "amount": 141
+            },
+            {
+                "id": 12159,
+                "amount": 1
+            },
+            {
+                "id": 311,
+                "amount": 1
+            }
+        ],
+        "familiarId":6991
+    },
+    {
+        "name": "Spirit graahk pouch",
+        "actionButton": 95000,
+        "levelRequirement": 57,
+        "xpGained": 501.6,
+        "pouchItemId": 12810,
+        "itemsRequired": [
+            {
+                "id": 12155,
+                "amount": 1
+            },
+            {
+                "id": 12183,
+                "amount": 154
+            },
+            {
+                "id": 12163,
+                "amount": 1
+            },
+            {
+                "id": 10099,
+                "amount": 1
+            }
+        ],
+        "familiarId": 7363
+    },
+    {
+        "name": "Spirit kyatt pouch",
+        "actionButton": 95011,
+        "levelRequirement": 57,
+        "xpGained": 501.6,
+        "pouchItemId": 12812,
+        "itemsRequired": [
+            {
+                "id": 12155,
+                "amount": 1
+            },
+            {
+                "id": 12183,
+                "amount": 153
+            },
+            {
+                "id": 12163,
+                "amount": 1
+            },
+            {
+                "id": 10103,
+                "amount": 1
+            }
+        ],
+        "familiarId": 7365
+    },
+    {
+        "name": "Spirit larupia pouch",
+        "actionButton": 95022,
+        "levelRequirement": 57,
+        "xpGained": 501.6,
+        "pouchItemId": 12784,
+        "itemsRequired": [
+            {
+                "id": 12155,
+                "amount": 1
+            },
+            {
+                "id": 12183,
+                "amount": 155
+            },
+            {
+                "id": 12163,
+                "amount": 1
+            },
+            {
+                "id": 10095,
+                "amount": 1
+            }
+        ],
+        "familiarId": 7337
+    },
+    {
+        "name": "Karam. overlord pouch",
+        "actionButton": 95033,
+        "levelRequirement": 58,
+        "xpGained": 510.4,
+        "pouchItemId": 12023,
+        "itemsRequired": [
+            {
+                "id": 12155,
+                "amount": 1
+            },
+            {
+                "id": 12183,
+                "amount": 144
+            },
+            {
+                "id": 12163,
+                "amount": 1
+            },
+            {
+                "id": 6667,
+                "amount": 1
+            }
+        ],
+        "familiarId": 6809
+    },
+    {
+        "name": "Smoke devil pouch",
+        "actionButton": 95044,
+        "levelRequirement": 61,
+        "xpGained": 268.0,
+        "pouchItemId": 12085,
+        "itemsRequired": [
+            {
+                "id": 12155,
+                "amount": 1
+            },
+            {
+                "id": 12183,
+                "amount": 141
+            },
+            {
+                "id": 12160,
+                "amount": 1
+            },
+            {
+                "id": 9736,
+                "amount": 1
+            }
+        ],
+        "familiarId": 6865
+    },
+    {
+        "name": "Abyssal lurker pouch",
+        "actionButton": 95055,
+        "levelRequirement": 62,
+        "xpGained": 109.6,
+        "pouchItemId": 12037,
+        "itemsRequired": [
+            {
+                "id": 12155,
+                "amount": 1
+            },
+            {
+                "id": 12183,
+                "amount": 119
+            },
+            {
+                "id": 12159,
+                "amount": 1
+            },
+            {
+                "id": 12161,
+                "amount": 1
+            }
+        ],
+        "familiarId": 6820
+    },
+    {
+        "name": "Spirit cobra pouch",
+        "actionButton": 95066,
+        "levelRequirement": 63,
+        "xpGained": 276.8,
+        "pouchItemId": 12015,
+        "itemsRequired": [
+            {
+                "id": 12155,
+                "amount": 1
+            },
+            {
+                "id": 12183,
+                "amount": 116
+            },
+            {
+                "id": 12160,
+                "amount": 1
+            },
+            {
+                "id": 6287,
+                "amount": 1
+            }
+        ],
+        "familiarId": 6802
+    },
+    {
+        "name": "Stranger plant pouch",
+        "actionButton": 95077,
+        "levelRequirement": 64,
+        "xpGained": 281.6,
+        "pouchItemId": 12045,
+        "itemsRequired": [
+            {
+                "id": 12155,
+                "amount": 1
+            },
+            {
+                "id": 12183,
+                "amount": 128
+            },
+            {
+                "id": 12160,
+                "amount": 1
+            },
+            {
+                "id": 8431,
+                "amount": 1
+            }
+        ],
+        "familiarId": 6827
+    },
+    {
+        "name": "Mithril minotaur pouch",
+        "actionButton": 95088,
+        "levelRequirement": 66,
+        "xpGained": 87.0,
+        "pouchItemId": 12079,
+        "itemsRequired": [
+            {
+                "id": 12155,
+                "amount": 1
+            },
+            {
+                "id": 12183,
+                "amount": 11
+            },
+            {
+                "id": 12163,
+                "amount": 1
+            },
+            {
+                "id": 2359,
+                "amount": 1
+            }
+        ],
+        "familiarId":6859
+    },
+    {
+        "name": "Barker toad pouch",
+        "actionButton": 95099,
+        "levelRequirement": 66,
+        "xpGained": 580.8,
+        "pouchItemId": 12123,
+        "itemsRequired": [
+            {
+                "id": 12155,
+                "amount": 1
+            },
+            {
+                "id": 12183,
+                "amount": 152
+            },
+            {
+                "id": 12158,
+                "amount": 1
+            },
+            {
+                "id": 2150,
+                "amount": 1
+            }
+        ],
+        "familiarId": 6889
+    },
+    {
+        "name": "War tortoise pouch",
+        "actionButton": 95110,
+        "levelRequirement": 67,
+        "xpGained": 58.6,
+        "pouchItemId": 12031,
+        "itemsRequired": [
+            {
+                "id": 12155,
+                "amount": 1
+            },
+            {
+                "id": 12183,
+                "amount": 1
+            },
+            {
+                "id": 12158,
+                "amount": 1
+            },
+            {
+                "id": 7939,
+                "amount": 1
+            }
+        ],
+        "familiarId":6815
+    },
+    {
+        "name": "Bunyip pouch",
+        "actionButton": 95121,
+        "levelRequirement": 68,
+        "xpGained": 119.2,
+        "pouchItemId": 12029,
+        "itemsRequired": [
+            {
+                "id": 12155,
+                "amount": 1
+            },
+            {
+                "id": 12183,
+                "amount": 110
+            },
+            {
+                "id": 12159,
+                "amount": 1
+            },
+            {
+                "id": 383,
+                "amount": 1
+            }
+        ],
+        "familiarId":6813
+    },
+    {
+        "name": "Fruit bat pouch",
+        "actionButton": 95132,
+        "levelRequirement": 69,
+        "xpGained": 121.2,
+        "pouchItemId": 12033,
+        "itemsRequired": [
+            {
+                "id": 12155,
+                "amount": 1
+            },
+            {
+                "id": 12183,
+                "amount": 130
+            },
+            {
+                "id": 12159,
+                "amount": 1
+            },
+            {
+                "id": 1963,
+                "amount": 1
+            }
+        ],
+        "familiarId":6817
+    },
+    {
+        "name": "Ravenous locust pouch",
+        "actionButton": 95143,
+        "levelRequirement": 70,
+        "xpGained": 132.0,
+        "pouchItemId": 12820,
+        "itemsRequired": [
+            {
+                "id": 12155,
+                "amount": 1
+            },
+            {
+                "id": 12183,
+                "amount": 79
+            },
+            {
+                "id": 12160,
+                "amount": 1
+            },
+            {
+                "id": 1930,
+                "amount": 1
+            }
+        ],
+        "familiarId":7372
+    },
+    {
+        "name": "Arctic bear pouch",
+        "actionButton": 95154,
+        "levelRequirement": 71,
+        "xpGained": 93.2,
+        "pouchItemId": 12057,
+        "itemsRequired": [
+            {
+                "id": 12155,
+                "amount": 1
+            },
+            {
+                "id": 12183,
+                "amount": 14
+            },
+            {
+                "id": 12158,
+                "amount": 1
+            },
+            {
+                "id": 10117,
+                "amount": 1
+            }
+        ],
+        "familiarId":6839
+    },
+    {
+        "name": "Phoenix pouch",
+        "actionButton": 95165,
+        "levelRequirement": 72,
+        "xpGained": 301.0,
+        "pouchItemId": 14623,
+        "itemsRequired": [
+            {
+                "id": 12155,
+                "amount": 1
+            },
+            {
+                "id": 12183,
+                "amount": 165
+            },
+            {
+                "id": 12160,
+                "amount": 1
+            },
+            {
+                "id": 14616,
+                "amount": 1
+            }
+        ],
+        "familiarId": 8548
+    },
+    {
+        "name": "Obsidian golem pouch",
+        "actionButton": 95176,
+        "levelRequirement": 73,
+        "xpGained": 642.4,
+        "pouchItemId": 12792,
+        "itemsRequired": [
+            {
+                "id": 12155,
+                "amount": 1
+            },
+            {
+                "id": 12183,
+                "amount": 195
+            },
+            {
+                "id": 12163,
+                "amount": 1
+            },
+            {
+                "id": 12168,
+                "amount": 1
+            }
+        ],
+        "familiarId":7345
+    },
+    {
+        "name": "Granite lobster pouch",
+        "actionButton": 95187,
+        "levelRequirement": 74,
+        "xpGained": 325.6,
+        "pouchItemId": 12069,
+        "itemsRequired": [
+            {
+                "id": 12155,
+                "amount": 1
+            },
+            {
+                "id": 12183,
+                "amount": 166
+            },
+            {
+                "id": 12160,
+                "amount": 1
+            },
+            {
+                "id": 6979,
+                "amount": 1
+            }
+        ],
+        "familiarId":6849
+    },
+    {
+        "name": "Praying mantis pouch",
+        "actionButton": 95198,
+        "levelRequirement": 75,
+        "xpGained": 329.6,
+        "pouchItemId": 12011,
+        "itemsRequired": [
+            {
+                "id": 12155,
+                "amount": 1
+            },
+            {
+                "id": 12183,
+                "amount": 168
+            },
+            {
+                "id": 12160,
+                "amount": 1
+            },
+            {
+                "id": 2462,
+                "amount": 1
+            }
+        ],
+        "familiarId":6798
+    },
+    {
+        "name": "Adamant minotaur pouch",
+        "actionButton": 95209,
+        "levelRequirement": 76,
+        "xpGained": 134.0,
+        "pouchItemId": 12081,
+        "itemsRequired": [
+            {
+                "id": 12155,
+                "amount": 1
+            },
+            {
+                "id": 12183,
+                "amount": 151
+            },
+            {
+                "id": 12163,
+                "amount": 1
+            },
+            {
+                "id": 10020,
+                "amount": 1
+            }
+        ],
+        "familiarId":6861
+    },
+    {
+        "name": "Forge regent pouch",
+        "actionButton": 95220,
+        "levelRequirement": 76,
+        "xpGained": 668.8,
+        "pouchItemId": 12782,
+        "itemsRequired": [
+            {
+                "id": 12155,
+                "amount": 1
+            },
+            {
+                "id": 12183,
+                "amount": 144
+            },
+            {
+                "id": 12159,
+                "amount": 1
+            },
+            {
+                "id": 2361,
+                "amount": 1
+            }
+        ],
+        "familiarId":7335
+    },
+    {
+        "name": "Talon beast pouch",
+        "actionButton": 95231,
+        "levelRequirement": 77,
+        "xpGained": 1015.2,
+        "pouchItemId": 12794,
+        "itemsRequired": [
+            {
+                "id": 12155,
+                "amount": 1
+            },
+            {
+                "id": 12183,
+                "amount": 174
+            },
+            {
+                "id": 12160,
+                "amount": 1
+            },
+            {
+                "id": 12162,
+                "amount": 1
+            }
+        ],
+        "familiarId":7347
+    },
+    {
+        "name": "Giant ent pouch",
+        "actionButton": 95242,
+        "levelRequirement": 78,
+        "xpGained": 136.8,
+        "pouchItemId": 12013,
+        "itemsRequired": [
+            {
+                "id": 12155,
+                "amount": 1
+            },
+            {
+                "id": 12183,
+                "amount": 124
+            },
+            {
+                "id": 12159,
+                "amount": 1
+            },
+            {
+                "id": 5933,
+                "amount": 1
+            }
+        ],
+        "familiarId":6800
+    },
+    {
+        "name": "Fire titan pouch",
+        "actionButton": 95253,
+        "levelRequirement": 79,
+        "xpGained": 695.2,
+        "pouchItemId": 12802,
+        "itemsRequired": [
+            {
+                "id": 12155,
+                "amount": 1
+            },
+            {
+                "id": 12183,
+                "amount": 198
+            },
+            {
+                "id": 12163,
+                "amount": 1
+            },
+            {
+                "id": 1442,
+                "amount": 1
+            }
+        ],
+        "familiarId":7355
+    },
+    {
+        "name": "Ice titan pouch",
+        "actionButton": 96021,
+        "levelRequirement": 79,
+        "xpGained": 695.2,
+        "pouchItemId": 12806,
+        "itemsRequired": [
+            {
+                "id": 12155,
+                "amount": 1
+            },
+            {
+                "id": 12183,
+                "amount": 202
+            },
+            {
+                "id": 12163,
+                "amount": 1
+            },
+            {
+                "id": 1440,
+                "amount": 1
+            },
+            {
+                "id": 1438,
+                "amount": 1
+            }
+        ],
+        "familiarId":7359
+    },
+    {
+        "name": "Moss titan pouch",
+        "actionButton": 96008,
+        "levelRequirement": 79,
+        "xpGained": 695.2,
+        "pouchItemId": 12804,
+        "itemsRequired": [
+            {
+                "id": 12155,
+                "amount": 1
+            },
+            {
+                "id": 12183,
+                "amount": 198
+            },
+            {
+                "id": 12163,
+                "amount": 1
+            },
+            {
+                "id": 1444,
+                "amount": 1
+            }
+        ],
+        "familiarId":7357
+    },
+    {
+        "name": "Hydra pouch",
+        "actionButton": 96032,
+        "levelRequirement": 80,
+        "xpGained": 140.8,
+        "pouchItemId": 12025,
+        "itemsRequired": [
+            {
+                "id": 12155,
+                "amount": 1
+            },
+            {
+                "id": 12183,
+                "amount": 128
+            },
+            {
+                "id": 12159,
+                "amount": 1
+            },
+            {
+                "id": 571,
+                "amount": 1
+            }
+        ],
+        "familiarId":6811
+    },
+    {
+        "name": "Spirit dagannoth pouch",
+        "actionButton": 96043,
+        "levelRequirement": 83,
+        "xpGained": 364.8,
+        "pouchItemId": 12017,
+        "itemsRequired": [
+            {
+                "id": 12155,
+                "amount": 1
+            },
+            {
+                "id": 12183,
+                "amount": 1
+            },
+            {
+                "id": 12160,
+                "amount": 1
+            },
+            {
+                "id": 6155,
+                "amount": 1
+            }
+        ],
+        "familiarId":6804
+    },
+    {
+        "name": "Lava titan pouch",
+        "actionButton": 96054,
+        "levelRequirement": 83,
+        "xpGained": 730.4,
+        "pouchItemId": 12788,
+        "itemsRequired": [
+            {
+                "id": 12155,
+                "amount": 1
+            },
+            {
+                "id": 12183,
+                "amount": 219
+            },
+            {
+                "id": 12163,
+                "amount": 1
+            },
+            {
+                "id": 12168,
+                "amount": 1
+            }
+        ],
+        "familiarId":7341
+    },
+    {
+        "name": "Swamp titan pouch",
+        "actionButton": 96065,
+        "levelRequirement": 85,
+        "xpGained": 373.6,
+        "pouchItemId": 12776,
+        "itemsRequired": [
+            {
+                "id": 12155,
+                "amount": 1
+            },
+            {
+                "id": 12183,
+                "amount": 150
+            },
+            {
+                "id": 12160,
+                "amount": 1
+            },
+            {
+                "id": 10149,
+                "amount": 1
+            }
+        ],
+        "familiarId":7329
+    },
+    {
+        "name": "Rune minotaur pouch",
+        "actionButton": 96076,
+        "levelRequirement": 86,
+        "xpGained": 756.8,
+        "pouchItemId": 12083,
+        "itemsRequired": [
+            {
+                "id": 12155,
+                "amount": 1
+            },
+            {
+                "id": 12183,
+                "amount": 1
+            },
+            {
+                "id": 12163,
+                "amount": 1
+            },
+            {
+                "id": 2363,
+                "amount": 1
+            }
+        ],
+        "familiarId":6863
+    },
+    {
+        "name": "Unicorn stallion pouch",
+        "actionButton": 96087,
+        "levelRequirement": 88,
+        "xpGained": 154.4,
+        "pouchItemId": 12039,
+        "itemsRequired": [
+            {
+                "id": 12155,
+                "amount": 1
+            },
+            {
+                "id": 12183,
+                "amount": 140
+            },
+            {
+                "id": 12159,
+                "amount": 1
+            },
+            {
+                "id": 237,
+                "amount": 1
+            }
+        ],
+        "familiarId":6822
+    },
+    {
+        "name": "Geyser titan pouch",
+        "actionButton": 96098,
+        "levelRequirement": 89,
+        "xpGained": 783.2,
+        "pouchItemId": 12786,
+        "itemsRequired": [
+            {
+                "id": 12155,
+                "amount": 1
+            },
+            {
+                "id": 12183,
+                "amount": 222
+            },
+            {
+                "id": 12163,
+                "amount": 1
+            },
+            {
+                "id": 1444,
+                "amount": 1
+            }
+        ],
+        "familiarId":7339
+    },
+    {
+        "name": "Wolpertinger pouch",
+        "actionButton": 96109,
+        "levelRequirement": 92,
+        "xpGained": 404.8,
+        "pouchItemId": 12089,
+        "itemsRequired": [
+            {
+                "id": 12155,
+                "amount": 1
+            },
+            {
+                "id": 12183,
+                "amount": 203
+            },
+            {
+                "id": 12160,
+                "amount": 1
+            },
+            {
+                "id": 3226,
+                "amount": 1
+            },
+            {
+                "id": 2859,
+                "amount": 1
+            }
+        ],
+        "familiarId":6869
+    },
+    {
+        "name": "Abyssal titan pouch",
+        "actionButton": 96109,
+        "levelRequirement": 93,
+        "xpGained": 163.2,
+        "pouchItemId": 12796,
+        "itemsRequired": [
+            {
+                "id": 12155,
+                "amount": 1
+            },
+            {
+                "id": 12183,
+                "amount": 112
+            },
+            {
+                "id": 12159,
+                "amount": 1
+            },
+            {
+                "id": 12161,
+                "amount": 1
+            }
+        ],
+        "familiarId":7349
+    },
+    {
+        "name": "Iron titan pouch",
+        "actionButton": 96122,
+        "levelRequirement": 95,
+        "xpGained": 417.6,
+        "pouchItemId": 12822,
+        "itemsRequired": [
+            {
+                "id": 12155,
+                "amount": 1
+            },
+            {
+                "id": 12183,
+                "amount": 198
+            },
+            {
+                "id": 12160,
+                "amount": 1
+            },
+            {
+                "id": 1115,
+                "amount": 1
+            }
+        ],
+        "familiarId":7375
+    },
+    {
+        "name": "Pack yak pouch",
+        "actionButton": 96133,
+        "levelRequirement": 96,
+        "xpGained": 422.4,
+        "pouchItemId": 12093,
+        "itemsRequired": [
+            {
+                "id": 12155,
+                "amount": 1
+            },
+            {
+                "id": 12183,
+                "amount": 211
+            },
+            {
+                "id": 12160,
+                "amount": 1
+            },
+            {
+                "id": 10818,
+                "amount": 1
+            }
+        ],
+        "familiarId":6873,
+        "canAttack": false
+    },
+    {
+        "name": "Steel titan pouch",
+        "actionButton": 96155,
+        "levelRequirement": 99,
+        "xpGained": 435.2,
+        "pouchItemId": 12790,
+        "itemsRequired": [
+            {
+                "id": 12155,
+                "amount": 1
+            },
+            {
+                "id": 12183,
+                "amount": 178
+            },
+            {
+                "id": 12160,
+                "amount": 1
+            },
+            {
+                "id": 1119,
+                "amount": 1
+            }
+        ],
+        "familiarId": 7343
+    }
+]

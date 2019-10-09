@@ -1,0 +1,60 @@
+{
+  "id": 127,
+  "name": "Slayer Rewards Shop",
+  "currency": "SlayerCurrency",
+  "generalStore": false,
+  "buysItems": false,
+  "replenishTime": 300000,
+  "items": [
+    {
+      "id": 8921,
+      "amount": 100,
+      "price": 100
+    },
+    {
+      "id": 15490,
+      "amount": 100,
+      "price": 200
+    },
+    {
+      "id": 15488,
+      "amount": 100,
+      "price": 200
+    },
+    {
+      "id": 13263,
+      "amount": 100,
+      "price": 250
+    },
+    {
+      "id": 15492,
+      "amount": 100,
+      "price": 500
+    },
+    {
+      "id": 2572,
+      "amount": 100,
+      "price": 750
+    },
+    {
+      "id": 4170,
+      "amount": 100,
+      "price": 100
+    },
+    {
+      "id": 11126,
+      "amount": 100,
+      "price": 50
+    },
+    {
+      "id": 18337,
+      "amount": 100,
+      "price": 250
+    },
+    {
+      "id": 18803,
+      "amount": 100,
+      "price": 1600
+    }
+  ]
+}

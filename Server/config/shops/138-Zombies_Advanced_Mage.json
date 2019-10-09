@@ -1,0 +1,20 @@
+{
+  "id": 138,
+  "name": "Zombies Advanced Mage",
+  "currency": "ZombieMinigameCurrency",
+  "generalStore": false,
+  "buysItems": false,
+  "replenishTime": 300000,
+  "items": [
+    {
+      "id": 565,
+      "amount": 100,
+      "price": 5
+    },
+    {
+      "id": 566,
+      "amount": 100,
+      "price": 5
+    }
+  ]
+}

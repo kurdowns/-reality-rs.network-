@@ -1,0 +1,868 @@
+[
+
+    {
+        "objectId": 12568,
+        "course": APE_ATOLL,
+        "xp": 70,
+        "position": [
+        	0
+        ],
+        "type": STONES,
+        "startingCoords": [
+            [
+                2755,
+                2742,
+                0
+            ]
+        ],
+        "endingCoords": [
+            [
+                2753,
+                2742,
+                0
+            ]
+        ]
+    },
+    
+    {
+        "objectId": 12570,
+        "course": APE_ATOLL,
+        "xp": 85,
+        "position": [
+        	1
+        ],
+        "type": CLIMBING,
+        "startingCoords": [
+            [
+                2752,
+                2742,
+                0
+            ]
+        ],
+        "endingCoords": [
+            [
+                2752,
+                2742,
+                2
+            ]
+        ]
+    },
+    
+    {
+        "objectId": 12573,
+        "course": APE_ATOLL,
+        "xp": 60,
+        "position": [
+        	2
+        ],
+        "type": MONKEYBARS,
+        "startingCoords": [
+            [
+                2752,
+                2741,
+                2
+            ]
+        ],
+        "endingCoords": [
+            [
+                2747,
+                2741,
+                0
+            ]
+        ]
+    },
+    
+    {
+        "objectId": 12576,
+        "course": APE_ATOLL,
+        "xp": 80,
+        "position": [
+        	3
+        ],
+        "type": OVER_OBJECT,
+        "startingCoords": [
+            [
+                2747,
+                2741,
+                0
+            ]
+        ],
+        "endingCoords": [
+            [
+                2743,
+                2741,
+                0
+            ]
+        ]
+    },
+    
+    {
+        "objectId": 12578,
+        "course": APE_ATOLL,
+        "xp": 70,
+        "position": [
+        	4
+        ],
+        "type": ROPE,
+        "startingCoords": [
+            [
+                2751,
+                2731,
+                0
+            ],
+            [
+            	2752,
+                2730,
+                0
+            ]
+        ],
+        "endingCoords": [
+            [
+                2756,
+                2731,
+                0
+            ]
+        ]
+    },
+    
+    {
+        "objectId": 12618,
+        "course": APE_ATOLL,
+        "xp": 50,
+        "position": [
+        	5
+        ],
+        "type": CLIMBING,
+        "startingCoords": [
+            [
+                2757,
+                2733,
+                0
+            ]
+        ],
+        "endingCoords": [
+            [
+                2771,
+                2748,
+                0
+            ]
+        ]
+    },
+
+	{
+        "objectId": 2295,
+        "course": GNOME,
+        "xp": 20,
+        "position": [
+        	0
+        ],
+        "type": LOG,
+        "startingCoords": [
+            [
+                2474,
+                3436,
+                0
+            ]
+        ],
+        "endingCoords": [
+            [
+                2474,
+                3429,
+                0
+            ]
+        ]
+    },
+    
+    {
+        "objectId": 2285,
+        "course": GNOME,
+        "xp": 30,
+        "position": [
+        	1
+        ],
+        "type": CLIMBING,
+        "startingCoords": [
+            [
+                2476, 
+                3426,
+                0
+            ],
+            [
+            	2475,
+            	3426,
+            	0
+            ],
+            [
+            	2474,
+            	3426,
+            	0
+            ],
+            [
+           	 	2473,
+            	3426,
+            	0
+            ],
+            [
+            	2472,
+            	3426,
+            	0
+            ],
+            [
+            	2471,
+            	3426,
+            	0
+            ]
+        ],
+        "endingCoords": [
+            [
+                2476, 
+                3424,
+                1
+            ],
+            [
+            	2475,
+            	3424,
+            	1
+            ],
+            [
+            	2474,
+            	3424,
+            	1
+            ],
+            [
+           	 	2473,
+            	3424,
+            	1
+            ],
+            [
+            	2472,
+            	3424,
+            	1
+            ],
+            [
+            	2471,
+            	3424,
+            	1
+            ]
+        ]
+    },
+    
+    {
+        "objectId": 35970,
+        "course": GNOME,
+        "xp": 25,
+        "position": [
+        	2
+        ],
+        "type": CLIMBING,
+        "startingCoords": [
+            [
+                2472,
+                3422,
+                1
+            ],
+            [
+                2473,
+                3423,
+                1
+            ],
+            [
+                2474,
+                3422,
+                1
+            ]
+        ],
+        "endingCoords": [
+            [
+                2473,
+                3420,
+                2
+            ]
+        ]
+    },
+    
+    {
+        "objectId": 2312,
+        "course": GNOME,
+        "xp": 30,
+        "position": [
+        	3
+        ],
+        "type": LOG,
+        "startingCoords": [
+            [
+                2477,
+                3420,
+                2
+            ]
+        ],
+        "endingCoords": [
+            [
+                2483,
+                3420,
+                2
+            ]
+        ]
+    },
+    
+    {
+        "objectId": 2314,
+        "course": GNOME,
+        "xp": 35,
+        "position": [
+        	4
+        ],
+        "type": CLIMBING,
+        "startingCoords": [
+            [
+                2486,
+                3420,
+                2
+            ],
+            [
+                2485,
+                3419,
+                2
+            ],
+            [
+                2486,
+                3418,
+                2
+            ]
+        ],
+        "endingCoords": [
+            [
+                2486,
+                3419,
+                0
+            ]
+        ]
+    },
+    
+    {
+        "objectId": 2286,
+        "course": GNOME,
+        "xp": 40,
+        "position": [
+        	5
+        ],
+        "type": CLIMBING,
+        "startingCoords": [
+            [
+                2488, 
+                3425,
+                0
+            ],
+            [
+            	2487,
+            	3425,
+            	0
+            ],
+            [
+            	2486,
+            	3425,
+            	0
+            ],
+            [
+           	 	2485,
+            	3425,
+            	0
+            ],
+            [
+            	2484,
+            	3425,
+            	0
+            ],
+            [
+            	2483,
+            	3425,
+            	0
+            ]
+        ],
+        "endingCoords": [
+            [
+                2488, 
+                3427,
+                0
+            ],
+            [
+            	2487,
+            	3427,
+            	0
+            ],
+            [
+            	2486,
+            	3427,
+            	0
+            ],
+            [
+           	 	2485,
+            	3427,
+            	0
+            ],
+            [
+            	2484,
+            	3427,
+            	0
+            ],
+            [
+            	2483,
+            	3427,
+            	0
+            ]
+        ]
+    },
+    
+    {
+        "objectId": 4058,
+        "course": GNOME,
+        "xp": 40,
+        "position": [
+        	6
+        ],
+        "type": PIPE,
+        "startingCoords": [
+            [
+                2487,
+                3430,
+                0
+            ]
+        ],
+        "endingCoords": [
+            [
+                2487,
+                3437,
+                0
+            ]
+        ]
+    },
+    
+    {
+        "objectId": 154,
+        "course": GNOME,
+        "xp": 20,
+        "position": [
+        	6
+        ],
+        "type": PIPE,
+        "startingCoords": [
+            [
+                2484,
+                3430,
+                0
+            ]
+        ],
+        "endingCoords": [
+            [
+                2484,
+                3437,
+                0
+            ]
+        ]
+    },
+    
+	{
+        "objectId": 2282,
+        "course": BARBARIAN,
+        "xp": 50,
+        "position": [
+        	0
+        ],
+        "type": ROPE,
+        "startingCoords": [
+            [
+           		2551,
+                3554,
+                0
+            ],
+            [
+                2550,
+                3554,
+                0
+            ],
+            [
+           		2552,
+                3554,
+                0
+            ]
+        ],
+        "endingCoords": [
+            [
+           		2551,
+                3549,
+                0
+            ],
+            [
+                2550,
+                3549,
+                0
+            ],
+            [
+           		2552,
+                3549,
+                0
+            ]
+        ]
+    },
+    
+    {
+        "objectId": 2294,
+        "course": BARBARIAN,
+        "xp": 50,
+        "position": [
+        	1
+        ],
+        "type": LOG,
+        "startingCoords": [
+            [
+                2551,
+                3546,
+                0
+            ]
+        ],
+        "endingCoords": [
+            [
+                2541,
+                3546,
+                0
+            ]
+        ]
+    },
+    
+    {
+        "objectId": 20211,
+        "course": BARBARIAN,
+        "xp": 75,
+        "position": [
+        	2
+        ],
+        "type": CLIMBING,
+        "startingCoords": [
+            [
+                2539,
+            	3546,
+            	0
+            ],
+            [
+            	2539,
+            	3545,
+            	0
+            ]
+        ],
+        "endingCoords": [
+            [
+                2537,
+                3546,
+                1
+            ],
+            [
+            	2537,
+            	3545,
+            	1
+            ]
+        ]
+    },
+    
+    {
+        "objectId": 2302,
+        "course": BARBARIAN,
+        "xp": 50,
+        "position": [
+        	3
+        ],
+        "type": BALANCING_LEDGE,
+        "startingCoords": [
+            [
+                2536,
+                3547,
+                1
+            ]
+        ],
+        "endingCoords": [
+            [
+                2532,
+                3547,
+                1
+            ]
+        ]
+    },
+    
+    {
+        "objectId": 3205,
+        "course": BARBARIAN,
+        "xp": 50,
+        "position": [
+        	4
+        ],
+        "type": CLIMBING,
+        "startingCoords": [
+            [
+                2532,
+                3546,
+                1
+            ]
+        ],
+        "endingCoords": [
+            [
+                2532,
+                3546,
+                0
+            ]
+        ]
+    }, 
+    
+    {
+        "objectId": 1948,
+        "course": BARBARIAN,
+        "xp": 75,
+        "position": [
+        	5,
+        	6,
+        	7
+        ],
+        "type": OVER_OBJECT,
+        "startingCoords": [
+            [
+                2535,
+                3553,
+                0
+            ],
+            [
+           		2538,
+                3553,
+                0
+            ],
+            [
+           		2541,
+                3553,
+                0
+            ]
+        ],
+        "endingCoords": [
+            [
+                2537,
+                3553,
+                0
+            ],
+            [
+           		2540,
+                3553,
+                0
+            ],
+            [
+           		2543,
+                3553,
+                0
+            ]
+        ]
+    },
+    
+    {
+        "objectId": 20210,
+        "course": BARBARIAN,
+        "xp": 0,
+        "position": [
+        	-1
+        ],
+        "type": PIPE,
+        "startingCoords": [
+            [
+                2552,
+                3558,
+                0
+            ],
+            [
+                2552,
+                3561,
+                0
+            ]
+        ],
+        "endingCoords": [
+            [
+                2552,
+                3561,
+                0
+            ],
+            [
+                2552,
+                3558,
+                0
+            ]
+        ]
+    },
+    
+    {
+        "objectId": 2288,
+        "course": WILDERNESS,
+        "xp": 100,
+        "position": [
+        	0
+        ],
+        "type": PIPE,
+        "startingCoords": [
+            [
+                3004,
+                3937,
+                0
+            ]
+        ],
+        "endingCoords": [
+            [
+                3004,
+                3950,
+                0
+            ]
+        ]
+    },
+    
+    {
+        "objectId": 2283,
+        "course": WILDERNESS,
+        "xp": 90,
+        "position": [
+        	1
+        ],
+        "type": ROPE,
+        "startingCoords": [
+            [
+           		3004,
+                3953,
+                0
+            ],
+            [
+                3005,
+                3953,
+                0
+            ],
+            [
+           		3006,
+                3953,
+                0
+            ]
+        ],
+        "endingCoords": [
+            [
+           		3004,
+                3958,
+                0
+            ],
+            [
+                3005,
+                3958,
+                0
+            ],
+            [
+           		3006,
+                3958,
+                0
+            ]
+        ]
+    },
+    
+    {
+        "objectId": 37704,
+        "course": WILDERNESS,
+        "xp": 80,
+        "position": [
+        	2
+        ],
+        "type": STONES,
+        "startingCoords": [
+            [
+                3002,
+                3960,
+                0
+            ]
+        ],
+        "endingCoords": [
+            [
+                2996,
+                3960,
+                0
+            ]
+        ]
+    },
+    
+    {
+        "objectId": 1,
+        "course": WILDERNESS,
+        "xp": 80,
+        "position": [
+        	2
+        ],
+        "type": STONES,
+        "startingCoords": [
+            [
+                3002,
+                3960,
+                0
+            ]
+        ],
+        "endingCoords": [
+            [
+                2996,
+                3960,
+                0
+            ]
+        ]
+    },
+    
+    {
+        "objectId": 2297,
+        "course": WILDERNESS,
+        "xp": 80,
+        "position": [
+        	3
+        ],
+        "type": LOG,
+        "startingCoords": [
+            [
+                3002,
+                3945,
+                0
+            ]
+        ],
+        "endingCoords": [
+            [
+                2994,
+                3945,
+                0
+            ]
+        ]
+    },
+    
+    {
+        "objectId": 2328,
+        "course": WILDERNESS,
+        "xp": 95,
+        "position": [
+        	4
+        ],
+        "type": CLIMBING,
+        "startingCoords": [
+            [
+                2994,
+                3937,
+                0
+            ],
+            [
+            	2995,
+                3937,
+                0
+            ]
+        ],
+        "endingCoords": [
+            [
+                2994,
+                3933,
+                0
+            ],
+            [
+            	2995,
+                3933,
+                0
+            ]
+        ]
+    }
+
+]

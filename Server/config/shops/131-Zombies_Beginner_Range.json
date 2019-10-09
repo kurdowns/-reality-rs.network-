@@ -1,0 +1,75 @@
+{
+  "id": 131,
+  "name": "Zombies Beginner Range",
+  "currency": "ZombieMinigameCurrency",
+  "generalStore": false,
+  "buysItems": false,
+  "replenishTime": 300000,
+  "items": [
+    {
+      "id": 841,
+      "amount": 100,
+      "price": 3
+    },
+    {
+      "id": 839,
+      "amount": 100,
+      "price": 3
+    },
+    {
+      "id": 882,
+      "amount": 100,
+      "price": 1
+    },
+    {
+      "id": 886,
+      "amount": 100,
+      "price": 1
+    },
+    {
+      "id": 1099,
+      "amount": 100,
+      "price": 5
+    },
+    {
+      "id": 1135,
+      "amount": 100,
+      "price": 5
+    },
+    {
+      "id": 1169,
+      "amount": 100,
+      "price": 3
+    },
+    {
+      "id": 1065,
+      "amount": 100,
+      "price": 2
+    },
+    {
+      "id": 6131,
+      "amount": 100,
+      "price": 4
+    },
+    {
+      "id": 6133,
+      "amount": 100,
+      "price": 5
+    },
+    {
+      "id": 6135,
+      "amount": 100,
+      "price": 5
+    },
+    {
+      "id": 6143,
+      "amount": 100,
+      "price": 3
+    },
+    {
+      "id": 6149,
+      "amount": 100,
+      "price": 2
+    }
+  ]
+}

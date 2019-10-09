@@ -1,0 +1,70 @@
+{
+  "id": 134,
+  "name": "Zombies intermediate Range",
+  "currency": "ZombieMinigameCurrency",
+  "generalStore": false,
+  "buysItems": false,
+  "replenishTime": 300000,
+  "items": [
+    {
+      "id": 861,
+      "amount": 100,
+      "price": 15
+    },
+    {
+      "id": 9144,
+      "amount": 100,
+      "price": 1
+    },
+    {
+      "id": 892,
+      "amount": 100,
+      "price": 1
+    },
+    {
+      "id": 2503,
+      "amount": 100,
+      "price": 15
+    },
+    {
+      "id": 2497,
+      "amount": 100,
+      "price": 15
+    },
+    {
+      "id": 2491,
+      "amount": 100,
+      "price": 4
+    },
+    {
+      "id": 12957,
+      "amount": 100,
+      "price": 4
+    },
+    {
+      "id": 3749,
+      "amount": 100,
+      "price": 3
+    },
+    {
+      "id": 1478,
+      "amount": 100,
+      "price": 3
+    },
+    {
+      "id": 3105,
+      "amount": 100,
+      "price": 15
+    },
+    {
+      "id": 859,
+      "amount": 100,
+      "price": 15
+    },
+    {
+      "id": 9185,
+      "amount": 100,
+      "price": 15
+    }
+  ]
+}

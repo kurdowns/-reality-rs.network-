@@ -1,0 +1,170 @@
+{
+  "id": 99,
+  "name": "Magic Accessories",
+  "currency": "ItemCurrency:995",
+  "generalStore": false,
+  "buysItems": true,
+  "replenishTime": 300000,
+  "items": [
+    {
+      "id": 4675,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 6914,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 1381,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 1383,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 1385,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 1387,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 6562,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 2579,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 2412,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 2413,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 2414,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 3840,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 3842,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 3844,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 6889,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 9075,
+      "amount": 500000,
+      "price": 0
+    },
+    {
+      "id": 554,
+      "amount": 500000,
+      "price": 0
+    },
+    {
+      "id": 555,
+      "amount": 500000,
+      "price": 0
+    },
+    {
+      "id": 556,
+      "amount": 500000,
+      "price": 0
+    },
+    {
+      "id": 557,
+      "amount": 500000,
+      "price": 0
+    },
+    {
+      "id": 558,
+      "amount": 500000,
+      "price": 0
+    },
+    {
+      "id": 559,
+      "amount": 500000,
+      "price": 0
+    },
+    {
+      "id": 562,
+      "amount": 500000,
+      "price": 0
+    },
+    {
+      "id": 563,
+      "amount": 500000,
+      "price": 0
+    },
+    {
+      "id": 565,
+      "amount": 500000,
+      "price": 0
+    },
+    {
+      "id": 561,
+      "amount": 500000,
+      "price": 0
+    },
+    {
+      "id": 560,
+      "amount": 500000,
+      "price": 0
+    },
+    {
+      "id": 6916,
+      "amount": 100000,
+      "price": 0
+    },
+    {
+      "id": 6918,
+      "amount": 100000,
+      "price": 0
+    },
+    {
+      "id": 6924,
+      "amount": 100000,
+      "price": 0
+    },
+    {
+      "id": 6920,
+      "amount": 100000,
+      "price": 0
+    },
+    {
+      "id": 6922,
+      "amount": 100000,
+      "price": 0
+    }
+  ]
+}

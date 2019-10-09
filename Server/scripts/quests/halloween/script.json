@@ -1,0 +1,9 @@
+{
+  "name": "halloween-event",
+  "enabled": true,
+  "author": "Stuart",
+  "version": 1.0,
+  "scripts": [
+    "quest.rb"
+  ]
+}

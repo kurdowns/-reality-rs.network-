@@ -1,0 +1,688 @@
+[
+    {
+        "id": 0,
+        "type": "PLAYER",
+        "next": 1,
+        "message": "Hello, my name is *username*."
+    },
+    {
+        "id": 1,
+        "type": "NPC",
+        "npcId": 209,
+        "next": 2,
+        "message": "Can't you see I'm busy? What do you need?"
+    },
+    {
+        "id": 2,
+        "type": "PLAYER",
+        "next": 3,
+        "message": "I was interesting in learning more about the Dwarven culture, I was in the Varrock library reading about it, and I found it a rather speculative piece of history."
+    },
+    {
+        "id": 3,
+        "type": "PLAYER",
+        "next": 4,
+        "message": "It seems everything you read about, some other book has it called fiction. I was hoping you'd be able to tell me the real tale's behind Dwarven history."
+    },
+    {
+        "id": 4,
+        "type": "NPC",
+        "npcId": 209,
+        "next": 5,
+        "message": "I.. I see. Well I apologize for my abrupt behavior."
+    },
+    {
+        "id": 5,
+        "type": "PLAYER",
+        "next": 6,
+        "message": "Not to worry, do you think you can help me out?"
+    },
+    {
+        "id": 6,
+        "type": "NPC",
+        "npcId": 209,
+        "next": 7,
+        "message": "Well, there is something you can do for me, that will take you behind our historical nature."
+    },
+    {
+        "id": 7,
+        "type": "PLAYER",
+        "next": 8,
+        "message": "Sounds like an adventure! What is it?"
+    },
+    {
+        "id": 8,
+        "type": "NPC",
+        "npcId": 209,
+        "next": 9,
+        "message": "It has to do with the Dwarven multi ca -"
+    },
+    {
+        "id": 9,
+        "type": "PLAYER",
+        "next": 10,
+        "message": "The Dwarven multi cannon! I've read so much about it. I mean, oh sorry continue."
+    },
+    {
+        "id": 10,
+        "type": "NPC",
+        "npcId": 209,
+        "next": 11,
+        "message": "One of my top miners, Zessfar to be exact and his crew of dwarven scum have stolen it."
+    },
+    {
+        "id": 11,
+        "type": "PLAYER",
+        "next": 12,
+        "message": "Really? What happened?"
+    },
+    {
+        "id": 12,
+        "type": "NPC",
+        "npcId": 209,
+        "next": 13,
+        "message": "You see, about 60 years ago was when I first met Zessfar, he was a young kid eager to live up to his family name as a miner, as you know mining is a very admirable trait in the dwarf kingdom!"
+    },
+    {
+        "id": 13,
+        "type": "NPC",
+        "npcId": 209,
+        "next": 14,
+        "message": "He showed great strength, by far the strongest dwarf I have ever crossed paths with. He could mine rocks faster than any other dwarf and carry double the weight any other dwarf could."
+    },
+    {
+        "id": 14,
+        "type": "NPC",
+        "npcId": 209,
+        "next": 15,
+        "message": "He was a diamond in the rough. A few years later we were mining the earth right under us. I was up here doing some kingdom running duties when I had one of my captains..."
+    },
+    {
+        "id": 15,
+        "type": "NPC",
+        "npcId": 209,
+        "next": 16,
+        "message": "come up and alert me that one of our miners discovered a large piece of metal. A few years later we were mining the earth right under us. I was up here doing some kingdom..."
+    },
+    {
+        "id": 16,
+        "type": "NPC",
+        "npcId": 209,
+        "next": 17,
+        "message": "running duties when I had one of my captains come up and alert me that one of our miners discovered a large piece of metal. I went down in the mine to check it out..."
+    },
+    {
+        "id": 17,
+        "type": "NPC",
+        "npcId": 209,
+        "next": 18,
+        "message": "there was Zessfar pulling out what looked like a base of some sort. After some more mining we pulled out more and more pieces, and after our engineers inspected it and put it together..."
+    },
+    {
+        "id": 18,
+        "type": "NPC",
+        "npcId": 209,
+        "next": 19,
+        "message": "it turned out to be an ancient cannon used by the great wars of our people. After our engineers discovered how to get the cannon working we showed it off for all of Draynor to see."
+    },
+    {
+        "id": 19,
+        "type": "NPC",
+        "npcId": 209,
+        "next": 20,
+        "message": "It was a powerful weapon that struck fear into our enemies and Zessfar was convinced to use it to our advantage, so he could take over the elven and human kingdoms."
+    },
+    {
+        "id": 20,
+        "type": "NPC",
+        "npcId": 209,
+        "next": 21,
+        "message": "I would not allow it, however. Over the years I could see his eyes gazing on the cannon. It was destroying him, he got quieter and less active through out the mine, would often..."
+    },
+    {
+        "id": 21,
+        "type": "NPC",
+        "npcId": 209,
+        "next": 22,
+        "message": "find him out in the mine after hours digging around on his own places, almost as if he was getting ready for something."
+    },
+    {
+        "id": 22,
+        "type": "NPC",
+        "npcId": 209,
+        "next": 23,
+        "message": "Turns out I was right, one night I was woken up by one of our captains, who said he saw Zessfar and a few other dwarfs taking the cannon for themselves."
+    },
+    {
+        "id": 23,
+        "type": "NPC",
+        "npcId": 209,
+        "next": 24,
+        "message": "We have sent so many expeditions out trying to find him the past few days, but none have returned. If someone doesn't find Zessfar and recover our cannon, who knows what he has planned!"
+    },
+    {
+        "id": 24,
+        "type": "PLAYER",
+        "next": 25,
+        "message": "Wow! What a story! I would love to help recover that cannon, for all of our sake!"
+    },
+    {
+        "id": 25,
+        "type": "NPC",
+        "npcId": 209,
+        "next": 26,
+        "message": "Are you sure, this is a life or death risk."
+    },
+    {
+        "id": 26,
+        "type": "PLAYER",
+        "next": 27,
+        "message": "I know if after years of building up my own kingdom for it only to be taken by one low life scum, I would do anything to bring honor back to my kingdom."
+    },
+    {
+        "id": 27,
+        "type": "NPC",
+        "npcId": 209,
+        "next": 28,
+        "message": "So you're up for the challenge?"
+    },
+    {
+        "id": 28,
+        "type": "OPTION",
+        "options": [
+            "Yes",
+            "No"
+        ]
+    },
+    {
+        "id": 29,
+        "type": "NPC",
+        "npcId": 209,
+        "message": "Well if you are ever up for it let me know!"
+    },
+    {
+        "id": 30,
+        "type": "NPC",
+        "npcId": 209,
+        "next": 31,
+        "message": "Awesome, well to start I would go down in the mine and talk to one of our miners who witnessed the horrid act by Zessfar, he will have some more information for you that I do not have."
+    },
+    {
+        "id": 31,
+        "type": "NPC",
+        "npcId": 209,
+        "next": 32,
+        "message": "Before you go down there you will need a gasmask, as the air is not safe for humans."
+    },
+    {
+        "id": 32,
+        "type": "PLAYER",
+        "next": 33,
+        "message": "Where would I get one of those?"
+    },
+    {
+        "id": 33,
+        "type": "NPC",
+        "npcId": 209,
+        "next": 34,
+        "message": "You can talk to my cousin down on the southern peninsula of port sarim, he can provide you with such a mask."
+    },
+    {
+        "id": 34,
+        "type": "PLAYER",
+        "message": "Alright, great!"
+    },
+    {
+        "id": 35,
+        "type": "PLAYER",
+        "message": "Hello Nulodion, have you any more tasks for me?",
+        "next": 36
+    },
+    {
+        "id": 36,
+        "type": "NPC",
+        "npcId": 209,
+        "message": "Nope, but if I do I will let you know!"
+    },
+    {
+        "id": 37,
+        "type": "NPC",
+        "npcId": 209,
+        "message": "Go speak to my cousin at the Southern Peninsula of Port Sarim, he can provide you with the mask you're looking for."
+    },
+    {
+        "id": 38,
+        "type": "NPC",
+        "npcId": 579,
+        "message": "Who are you, what are you doing here?",
+        "next": 39
+    },
+    {
+        "id": 39,
+        "type": "PLAYER",
+        "message": "My name is *username*.",
+        "next": 40
+    },
+    {
+        "id": 40,
+        "type": "NPC",
+        "npcId": 579,
+        "message": "That means nothing to me!",
+        "next": 41
+    },
+    {
+        "id": 41,
+        "type": "PLAYER",
+        "message": "Nulodion sent me here. I was told you would be able to provide me with a gas mask. I'm on an adventure to find a dwarf in the mines. ",
+        "next": 42
+    },
+    {
+        "id": 42,
+        "type": "NPC",
+        "npcId": 579,
+        "message": "My cousin sent you? A human to do a dwarfs job, I don't know who you're trying to fool.",
+        "next": 43
+    },
+    {
+        "id": 43,
+        "type": "PLAYER",
+        "message": "He really did!",
+        "next": 44
+    },
+    {
+        "id": 44,
+        "type": "NPC",
+        "npcId": 579,
+        "message": "Nice try, but until I hear from him myself you aren't getting a thing from me."
+    },
+    {
+        "id": 45,
+        "type": "NPC",
+        "npcId": 579,
+        "message": "Go away human!"
+    },
+    {
+        "id": 46,
+        "type": "PLAYER",
+        "message": "Hello Nulodion, I spoke to your cousin however he was rather rude to me?",
+        "next": 47
+    },
+    {
+        "id": 47,
+        "type": "NPC",
+        "npcId": 209,
+        "message": "I am sorry to hear that, he can be a little grumpy at times.",
+        "next": 48
+    },
+    {
+        "id": 48,
+        "type": "NPC",
+        "npcId": 209,
+        "message": "Try taking some Iron and Tin ore with you, he has a thing for mining I hear.",
+        "next": 49
+    },
+    {
+        "id": 49,
+        "type": "PLAYER",
+        "message": "Ok thank you for the tip!"
+    },
+    {
+	    "id": 50,
+	    "type": "NPC",
+	    "npcId": 209,
+	    "message": "Go take some Iron and Tin ore with you and see my cousin again!"
+    },
+    {
+        "id": 51,
+        "type": "NPC",
+        "npcId": 579,
+        "message": "What's that you have in your inventory? Is that ore I see!",
+        "next": 52
+    },
+    {
+        "id": 52,
+        "type": "PLAYER",
+        "message": "Yes that's correct! The finest ores of Draynor sit inside my inventory!",
+        "next": 53
+    },
+    {
+        "id": 53,
+        "type": "NPC",
+        "npcId": 579,
+        "message": "There can be only one person who would of suggested you to bring those ores... You must of been telling the truth that my cousin sent you to me.",
+        "next": 54
+    },
+    {
+        "id": 54,
+        "type": "PLAYER",
+        "message": "That's correct sir.",
+        "next": 55
+    },
+    {
+        "id": 55,
+        "type": "NPC",
+        "npcId": 579,
+        "message": "Well if it's gas mask you require, it's not like I carry one in my back pocket. You'll need to bring me the following items",
+        "next": 56
+    },
+    {
+        "id": 56,
+        "type": "NPC",
+        "npcId": 579,
+        "message": "5 pieces of leather.",
+        "next": 57
+    },
+    {
+        "id": 57,
+        "type": "PLAYER",
+        "message": "Understood, I'll return when I've got these."
+    },
+    {
+        "id": 58,
+        "type": "NPC",
+        "npcId": 579,
+        "message": "Please bring me 5 pieces of leather to make you a gas mask"
+    },
+    {
+        "id": 59,
+        "type": "PLAYER",
+        "message": "I have the items you require.",
+        "next": 60
+    },
+    {
+        "id": 60,
+        "type": "NPC",
+        "npcId": 579,
+        "message": "Great give them here, I will make your gas mask.",
+        "next": 61
+    },
+    {
+        "id": 61,
+        "type": "STATEMENT",
+        "message": "You pass the leather and ores over to Drogo",
+        "next": 62
+    },
+    {
+        "id": 62,
+        "type": "NPC",
+        "npcId": 579,
+        "message": "There you go! Return back to me with the same items if you loose that one, give my cousin my regards when you next see him."
+    },
+    {
+        "id": 63,
+        "type": "NPC",
+        "npcId": 579,
+        "message": "Stop pestering me human, I have nothing to say to you.",
+        "animation": "ANGRY"
+    },
+    {
+        "id": 64,
+        "type": "NPC",
+        "npcId": 209,
+        "message": "Oh I see you finally managed to get a Gas mask!",
+        "next": 65
+    },
+    {
+        "id": 65,
+        "type": "PLAYER",
+        "message": "Yes sir.",
+        "next": 66
+    },
+    {
+        "id": 66,
+        "type": "NPC",
+        "npcId": 209,
+        "message": "Fantastic. Now climb down that ladder and find out what the Dwarf witnessed."
+    },
+    {
+        "id": 67,
+        "type": "NPC",
+        "npcId": 209,
+        "message": "You need to get that Gas mask or you will die down in the mine.",
+        "animation": "SCARED"
+    },
+    {
+        "id": 68,
+        "type": "NPC",
+        "npcId": 5880,
+        "message": "What are you doing here?",
+        "next": 69
+    },
+    {
+        "id": 69,
+        "type": "PLAYER",
+        "message": "Nulodion sent me. I'm here to help recover your cannon.",
+        "next": 70
+    },
+    {
+        "id": 70,
+        "type": "NPC",
+        "npcId": 5880,
+        "message": "A human? Doing a dwarfs job? Bit odd..",
+        "next": 71
+    },
+    {
+        "id": 71,
+        "type": "PLAYER",
+        "message": "That's not the first time I've heard that.",
+        "next": 72
+    },
+    {
+        "id": 72,
+        "type": "NPC",
+        "npcId": 5880,
+        "message": "And it surely won't be the last!",
+        "next": 73
+    },
+    {
+        "id": 73,
+        "type": "PLAYER",
+        "message": "So, do you have anything you would like to tell me about this robbery last night?",
+        "next": 74
+    },
+    {
+        "id": 74,
+        "type": "NPC",
+        "npcId": 5880,
+        "message": "Well, I heard some loud noises, and some quiet talking. I got up to take a look and to my surprise our friend, or so we thought Zessfar and some others were hauling off the cannon pieces in a mining cart!",
+        "next": 75
+    },
+    {
+        "id": 75,
+        "type": "NPC",
+        "npcId": 5880,
+        "message": "At first I thought they had reasoning to be doing such an act, until Nulodion told me he had no idea about it.",
+        "next": 76
+    },
+    {
+        "id": 76,
+        "type": "PLAYER",
+        "message": "So you let them walk right by?",
+        "next": 77
+    },
+    {
+        "id": 77,
+        "type": "NPC",
+        "npcId": 5880,
+        "message": "Well... Um... No! I tried to stop them as best I could!",
+        "next": 78
+    },
+    {
+        "id": 78,
+        "type": "PLAYER",
+        "message": "Right, so where could I find these dwarfs?",
+        "next": 79
+    },
+    {
+        "id": 79,
+        "type": "NPC",
+        "npcId": 5880,
+        "message": "I don't know exactly, could be anywhere! Zessfar was a very intelligent dwarf, if I know anything about him is that they most likely will be spread out...",
+        "next": 80
+    },
+    {
+        "id": 80,
+        "type": "NPC",
+        "npcId": 5880,
+        "message": "Check the mines on the main land, if you do find one, kill him and bring back the piece of the cannon.",
+        "next": 81
+    },
+    {
+        "id": 81,
+        "type": "NPC",
+        "npcId": 5880,
+        "message": "Go ahead and start looking for the 3 gang members that stole his cannon with him, while you get them I will try and located Zessfar by the time you get back!"
+    },
+    {
+        "id": 82,
+        "type": "NPC",
+        "npcId": 5880,
+        "message": "So hows your search for the 3 gang members?",
+        "next": 83
+    },
+    {
+        "id": 83,
+        "type": "PLAYER",
+        "message": "Not so well, I am hunting down the gang members still.",
+        "next": 84
+    },
+    {
+        "id": 84,
+        "type": "NPC",
+        "npcId": 5880,
+        "message": "Keep on searching *username*, good luck finding them!"
+    },
+    {
+        "id": 85,
+        "type": "NPC",
+        "npcId": 5880,
+        "message": "So hows your search for the 3 gang members?",
+        "next": 86
+    },
+    {
+        "id": 86,
+        "type": "PLAYER",
+        "message": "I have found and killed the 3 gang members, however unfortunately I did not bring the cannon pieces with me.",
+        "next": 87
+    },
+    {
+        "id": 87,
+        "type": "NPC",
+        "npcId": 5880,
+        "message": "The cannon pieces must be returned *username*, please return them immediately!"
+    },
+    {
+        "id": 88,
+        "type": "PLAYER",
+        "message": "I have found and killed all the gang members sir!",
+        "next": 89
+    },
+    {
+        "id": 89,
+        "type": "NPC",
+        "npcId": 5880,
+        "message": "Great, hand me over the 3 cannon pieces!",
+        "next": 90
+    },
+    {
+        "id": 90,
+        "type": "STATEMENT",
+        "message": "You hand over the cannon pieces to Thrain.",
+        "next": 91
+    },
+    {
+        "id": 91,
+        "type": "NPC",
+        "npcId": 5880,
+        "message": "Now that's that. Unfortunately I have not been able to locate Zessfar, but as his sneaky gang members, he must be hidden somewhere in comfort, such as an area filled with rocks.",
+        "next": 92
+    },
+    {
+        "id": 92,
+        "type": "NPC",
+        "npcId": 5880,
+        "message": "I hope this can be of help to you, the dwarf kingdom is counting on you!"
+    },
+    {
+        "id": 93,
+        "type": "NPC",
+        "npcId": 5880,
+        "message": "Go find and kill Zassfar, we're all counting on you!"
+    },
+    {
+        "id": 94,
+        "type": "NPC",
+        "npcId": 5880,
+        "message": "Have you found and defeated Zassfar?!",
+        "next": 95
+    },
+    {
+        "id": 95,
+        "type": "PLAYER",
+        "message": "Yes sir I have, and I have returned home with the final piece to the cannon!",
+        "next": 96
+    },
+    {
+        "id": 96,
+        "type": "NPC",
+        "npcId": 5880,
+        "message": "My faith in the human race has been restored *username*! I shall take this to Nulodian!"
+    },
+    {
+        "id": 97,
+        "type": "NPC",
+        "npcId": 5880,
+        "message": "Have you found and defeated Zassfar?!",
+        "next": 98
+    },
+    {
+        "id": 98,
+        "type": "PLAYER",
+        "message": "Yes sir I have, however I forgot to bring the final piece of the cannon.",
+        "next": 99
+    },
+    {
+        "id": 99,
+        "type": "NPC",
+        "npcId": 5880,
+        "message": "Please return back with the final piece, as soon as possible."
+    },
+    {
+        "id": 100,
+        "type": "NPC",
+        "npcId": 209,
+        "message": "My friend, you have done it!",
+        "next": 101
+    },
+    {
+        "id": 101,
+        "type": "PLAYER",
+        "message": "Yes sir i have!",
+        "next": 102
+    },
+    {
+        "id": 102,
+        "type": "NPC",
+        "npcId": 209,
+        "message": "Only one more step! My engineers will need a toolkit to finish patching up our cannon and securing it. Fetch me a toolkit so we can get this done."
+    },
+    {
+        "id": 102,
+        "type": "NPC",
+        "npcId": 209,
+        "message": "Please bring me a toolkit back."
+    },
+    {
+        "id": 103,
+        "type": "PLAYER",
+        "message": "Here's your toolkit!",
+        "next": 104
+    },
+    {
+        "id": 104,
+        "type": "NPC",
+        "npcId": 209,
+        "message": "Thank you *username*! You don't know how thankful I am for this, you're a true friend of the Dwarf Kingdom!",
+        "next": 105
+    }
+]

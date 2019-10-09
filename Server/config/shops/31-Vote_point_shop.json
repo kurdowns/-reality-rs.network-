@@ -1,0 +1,150 @@
+{
+  "id": 31,
+  "name": "Vote point shop",
+  "currency": "VoteCurrency",
+  "generalStore": false,
+  "buysItems": false,
+  "replenishTime": 300000,
+  "items": [
+    {
+      "id": 15332,
+      "amount": 100,
+      "price": 1
+    },
+    {
+      "id": 19335,
+      "amount": 100,
+      "price": 20
+    },
+    {
+      "id": 10548,
+      "amount": 100,
+      "price": 16
+    },
+    {
+      "id": 4214,
+      "amount": 100,
+      "price": 15
+    },
+    {
+      "id": 4224,
+      "amount": 100,
+      "price": 8
+    },
+    {
+      "id": 17273,
+      "amount": 100,
+      "price": 24
+    },
+    {
+      "id": 13867,
+      "amount": 100,
+      "price": 18
+    },
+    {
+      "id": 13864,
+      "amount": 100,
+      "price": 14
+    },
+    {
+      "id": 13858,
+      "amount": 100,
+      "price": 22
+    },
+    {
+      "id": 13861,
+      "amount": 100,
+      "price": 20
+    },
+    {
+      "id": 13876,
+      "amount": 100,
+      "price": 16
+    },
+    {
+      "id": 13870,
+      "amount": 100,
+      "price": 22
+    },
+    {
+      "id": 13873,
+      "amount": 100,
+      "price": 20
+    },
+    {
+      "id": 7668,
+      "amount": 100,
+      "price": 4
+    },
+    {
+      "id": 18335,
+      "amount": 100,
+      "price": 16
+    },
+    {
+      "id": 13661,
+      "amount": 100,
+      "price": 25
+    },
+    {
+      "id": 21537,
+      "amount": 100,
+      "price": 23
+    },
+    {
+      "id": 21539,
+      "amount": 100,
+      "price": 26
+    },
+    {
+      "id": 21541,
+      "amount": 100,
+      "price": 23
+    },
+    {
+      "id": 21543,
+      "amount": 100,
+      "price": 19
+    },
+    {
+      "id": 21545,
+      "amount": 100,
+      "price": 19
+    },
+    {
+      "id": 21547,
+      "amount": 100,
+      "price": 23
+    },
+    {
+      "id": 21549,
+      "amount": 100,
+      "price": 26
+    },
+    {
+      "id": 21551,
+      "amount": 100,
+      "price": 23
+    },
+    {
+      "id": 21555,
+      "amount": 100,
+      "price": 19
+    },
+    {
+      "id": 21553,
+      "amount": 100,
+      "price": 19
+    },
+    {
+      "id": 6570,
+      "amount": 100,
+      "price": 25
+    },
+    {
+      "id": 20120,
+      "amount": 100,
+      "price": 4
+    }
+  ]
+}

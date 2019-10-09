@@ -1,0 +1,40 @@
+{
+  "id": 71,
+  "name": "Zombie Destruction Shop",
+  "currency": "ItemCurrency:995",
+  "generalStore": false,
+  "buysItems": true,
+  "replenishTime": 300000,
+  "items": [
+    {
+      "id": 16699,
+      "amount": 50,
+      "price": 0
+    },
+    {
+      "id": 17247,
+      "amount": 50,
+      "price": 0
+    },
+    {
+      "id": 16677,
+      "amount": 50,
+      "price": 0
+    },
+    {
+      "id": 16413,
+      "amount": 5,
+      "price": 0
+    },
+    {
+      "id": 16943,
+      "amount": 5,
+      "price": 0
+    },
+    {
+      "id": 16961,
+      "amount": 5,
+      "price": 0
+    }
+  ]
+}

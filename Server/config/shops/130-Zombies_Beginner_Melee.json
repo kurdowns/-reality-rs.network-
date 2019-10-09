@@ -1,0 +1,125 @@
+{
+  "id": 130,
+  "name": "Zombies Beginner Melee",
+  "currency": "ZombieMinigameCurrency",
+  "generalStore": false,
+  "buysItems": false,
+  "replenishTime": 300000,
+  "items": [
+    {
+      "id": 1115,
+      "amount": 100,
+      "price": 4
+    },
+    {
+      "id": 1153,
+      "amount": 100,
+      "price": 3
+    },
+    {
+      "id": 1067,
+      "amount": 100,
+      "price": 4
+    },
+    {
+      "id": 1191,
+      "amount": 100,
+      "price": 4
+    },
+    {
+      "id": 1127,
+      "amount": 100,
+      "price": 7
+    },
+    {
+      "id": 1163,
+      "amount": 100,
+      "price": 5
+    },
+    {
+      "id": 1079,
+      "amount": 100,
+      "price": 7
+    },
+    {
+      "id": 1201,
+      "amount": 100,
+      "price": 7
+    },
+    {
+      "id": 1309,
+      "amount": 100,
+      "price": 3
+    },
+    {
+      "id": 1323,
+      "amount": 100,
+      "price": 3
+    },
+    {
+      "id": 1293,
+      "amount": 100,
+      "price": 3
+    },
+    {
+      "id": 1363,
+      "amount": 100,
+      "price": 3
+    },
+    {
+      "id": 1319,
+      "amount": 100,
+      "price": 7
+    },
+    {
+      "id": 1333,
+      "amount": 100,
+      "price": 5
+    },
+    {
+      "id": 1303,
+      "amount": 100,
+      "price": 5
+    },
+    {
+      "id": 1373,
+      "amount": 100,
+      "price": 7
+    },
+    {
+      "id": 1007,
+      "amount": 100,
+      "price": 1
+    },
+    {
+      "id": 1019,
+      "amount": 100,
+      "price": 1
+    },
+    {
+      "id": 1021,
+      "amount": 100,
+      "price": 1
+    },
+    {
+      "id": 1023,
+      "amount": 100,
+      "price": 1
+    },
+    {
+      "id": 4131,
+      "amount": 100,
+      "price": 5
+    },
+    {
+      "id": 1725,
+      "amount": 100,
+      "price": 3
+    },
+    {
+      "id": 7458,
+      "amount": 100,
+      "price": 2
+    }
+  ]
+}

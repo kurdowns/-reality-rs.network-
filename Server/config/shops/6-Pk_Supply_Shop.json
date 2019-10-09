@@ -1,0 +1,190 @@
+{
+  "id": 6,
+  "name": "Pk Supply Shop",
+  "currency": "ItemCurrency:995",
+  "generalStore": false,
+  "buysItems": true,
+  "replenishTime": 300000,
+  "items": [
+    {
+      "id": 3041,
+      "amount": 100000,
+      "price": 0
+    },
+    {
+      "id": 2445,
+      "amount": 100000,
+      "price": 0
+    },
+    {
+      "id": 386,
+      "amount": 100000,
+      "price": 0
+    },
+    {
+      "id": 6686,
+      "amount": 100000,
+      "price": 5000
+    },
+    {
+      "id": 2441,
+      "amount": 100000,
+      "price": 0
+    },
+    {
+      "id": 2437,
+      "amount": 100000,
+      "price": 0
+    },
+    {
+      "id": 2443,
+      "amount": 100000,
+      "price": 0
+    },
+    {
+      "id": 2435,
+      "amount": 100000,
+      "price": 0
+    },
+    {
+      "id": 3025,
+      "amount": 100000,
+      "price": 6500
+    },
+    {
+      "id": 2447,
+      "amount": 100000,
+      "price": 0
+    },
+    {
+      "id": 2453,
+      "amount": 100000,
+      "price": 0
+    },
+    {
+      "id": 3751,
+      "amount": 100000,
+      "price": 0
+    },
+    {
+      "id": 3753,
+      "amount": 100000,
+      "price": 0
+    },
+    {
+      "id": 10828,
+      "amount": 100000,
+      "price": 0
+    },
+    {
+      "id": 3105,
+      "amount": 100000,
+      "price": 0
+    },
+    {
+      "id": 4131,
+      "amount": 100000,
+      "price": 0
+    },
+    {
+      "id": 1079,
+      "amount": 100000,
+      "price": 0
+    },
+    {
+      "id": 1113,
+      "amount": 100000,
+      "price": 0
+    },
+    {
+      "id": 1093,
+      "amount": 100000,
+      "price": 0
+    },
+    {
+      "id": 1127,
+      "amount": 100000,
+      "price": 0
+    },
+    {
+      "id": 1712,
+      "amount": 100000,
+      "price": 0
+    },
+    {
+      "id": 1215,
+      "amount": 100000,
+      "price": 0
+    },
+    {
+      "id": 4587,
+      "amount": 100000,
+      "price": 0
+    },
+    {
+      "id": 1333,
+      "amount": 100000,
+      "price": 0
+    },
+    {
+      "id": 1163,
+      "amount": 100000,
+      "price": 0
+    },
+    {
+      "id": 1319,
+      "amount": 100000,
+      "price": 0
+    },
+    {
+      "id": 1305,
+      "amount": 100000,
+      "price": 0
+    },
+    {
+      "id": 1373,
+      "amount": 100000,
+      "price": 0
+    },
+    {
+      "id": 9185,
+      "amount": 100000,
+      "price": 0
+    },
+    {
+      "id": 9241,
+      "amount": 100000,
+      "price": 0
+    },
+    {
+      "id": 9243,
+      "amount": 100000,
+      "price": 0
+    },
+    {
+      "id": 892,
+      "amount": 100000,
+      "price": 0
+    },
+    {
+      "id": 1725,
+      "amount": 100000,
+      "price": 0
+    },
+    {
+      "id": 2550,
+      "amount": 100000,
+      "price": 0
+    },
+    {
+      "id": 861,
+      "amount": 100000,
+      "price": 0
+    },
+    {
+      "id": 5680,
+      "amount": 100000,
+      "price": 0
+    }
+  ]
+}

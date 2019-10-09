@@ -1,0 +1,85 @@
+{
+  "id": 26,
+  "name": "Pking Supplies",
+  "currency": "ItemCurrency:995",
+  "generalStore": false,
+  "buysItems": true,
+  "replenishTime": 300000,
+  "items": [
+    {
+      "id": 15272,
+      "amount": 10000,
+      "price": 0
+    },
+    {
+      "id": 7061,
+      "amount": 100000,
+      "price": 0
+    },
+    {
+      "id": 392,
+      "amount": 100000,
+      "price": 0
+    },
+    {
+      "id": 386,
+      "amount": 100000,
+      "price": 0
+    },
+    {
+      "id": 7947,
+      "amount": 100000,
+      "price": 0
+    },
+    {
+      "id": 6686,
+      "amount": 100000,
+      "price": 0
+    },
+    {
+      "id": 2437,
+      "amount": 100000,
+      "price": 0
+    },
+    {
+      "id": 2441,
+      "amount": 100000,
+      "price": 0
+    },
+    {
+      "id": 2443,
+      "amount": 100000,
+      "price": 0
+    },
+    {
+      "id": 2445,
+      "amount": 100000,
+      "price": 0
+    },
+    {
+      "id": 2435,
+      "amount": 100000,
+      "price": 0
+    },
+    {
+      "id": 3025,
+      "amount": 100000,
+      "price": 0
+    },
+    {
+      "id": 2447,
+      "amount": 100000,
+      "price": 0
+    },
+    {
+      "id": 1540,
+      "amount": 1000,
+      "price": 0
+    },
+    {
+      "id": 8008,
+      "amount": 10000,
+      "price": 0
+    }
+  ]
+}

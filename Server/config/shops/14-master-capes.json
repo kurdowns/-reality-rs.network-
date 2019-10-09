@@ -1,0 +1,130 @@
+{
+  "id": 14,
+  "name": "Master cape Shop",
+  "currency": "ItemCurrency:995",
+  "generalStore": false,
+  "buysItems": true,
+  "log": false,
+  "items": [
+    {
+      "id": 7692,
+      "amount": -2,
+      "price": 0
+    },
+    {
+      "id": 7693,
+      "amount": -2,
+      "price": 0
+    },
+    {
+      "id": 7694,
+      "amount": -2,
+      "price": 0
+    },
+    {
+      "id": 7695,
+      "amount": -2,
+      "price": 0
+    },
+    {
+      "id": 7696,
+      "amount": -2,
+      "price": 0
+    },
+    {
+      "id": 7697,
+      "amount": -2,
+      "price": 0
+    },
+    {
+      "id": 7698,
+      "amount": -2,
+      "price": 0
+    },
+    {
+      "id": 7699,
+      "amount": -2,
+      "price": 0
+    },
+    {
+      "id": 7700,
+      "amount": -2,
+      "price": 0
+    },
+    {
+      "id": 7701,
+      "amount": -2,
+      "price": 0
+    },
+    {
+      "id": 7702,
+      "amount": -2,
+      "price": 0
+    },
+    {
+      "id": 7703,
+      "amount": -2,
+      "price": 0
+    },
+    {
+      "id": 7704,
+      "amount": -2,
+      "price": 0
+    },
+    {
+      "id": 7705,
+      "amount": -2,
+      "price": 0
+    },
+    {
+      "id": 7706,
+      "amount": -2,
+      "price": 0
+    },
+    {
+      "id": 7707,
+      "amount": -2,
+      "price": 0
+    },
+    {
+      "id": 7708,
+      "amount": -2,
+      "price": 0
+    },
+    {
+      "id": 7709,
+      "amount": -2,
+      "price": 0
+    },
+    {
+      "id": 7710,
+      "amount": -2,
+      "price": 0
+    },
+    {
+      "id": 7711,
+      "amount": -2,
+      "price": 0
+    },
+    {
+      "id": 7712,
+      "amount": -2,
+      "price": 0
+    },
+    {
+      "id": 7713,
+      "amount": -2,
+      "price": 0
+    },
+    {
+      "id": 7714,
+      "amount": -2,
+      "price": 0
+    },
+    {
+      "id": 7715,
+      "amount": -2,
+      "price": 0
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": 7,
+  "name": "Stall Items",
+  "currency": "ItemCurrency:995",
+  "generalStore": false,
+  "buysItems": true,
+  "buyBackFullPrice": true,
+  "replenishTime": 300000,
+  "items": [
+    {
+      "id": 1897,
+      "amount": 1,
+      "price": 0
+    },
+    {
+      "id": 950,
+      "amount": 1,
+      "price": 0
+    },
+    {
+      "id": 1635,
+      "amount": 1,
+      "price": 0
+    },
+    {
+      "id": 1613,
+      "amount": 1,
+      "price": 0
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": 97,
+  "name": "Fishing Store",
+  "currency": "ItemCurrency:995",
+  "generalStore": false,
+  "buysItems": true,
+  "replenishTime": 300000,
+  "items": [
+    {
+      "id": 314,
+      "amount": 100000,
+      "price": 0
+    },
+    {
+      "id": 313,
+      "amount": 150,
+      "price": 0
+    },
+    {
+      "id": 309,
+      "amount": 50,
+      "price": 0
+    },
+    {
+      "id": 307,
+      "amount": 50,
+      "price": 0
+    },
+    {
+      "id": 301,
+      "amount": 50,
+      "price": 0
+    },
+    {
+      "id": 311,
+      "amount": 50,
+      "price": 0
+    },
+    {
+      "id": 303,
+      "amount": 50,
+      "price": 0
+    },
+    {
+      "id": 305,
+      "amount": 50,
+      "price": 0
+    }
+  ]
+}

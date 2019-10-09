@@ -1,0 +1,150 @@
+{
+  "id": 12,
+  "name": "Ironman Vote Shop",
+  "currency": "VoteCurrency",
+  "generalStore": false,
+  "buysItems": false,
+  "replenishTime": 300000,
+  "items": [
+    {
+      "id": 8839,
+      "amount": 50000,
+      "price": 16
+    },
+    {
+      "id": 8840,
+      "amount": 50000,
+      "price": 12
+    },
+    {
+      "id": 11663,
+      "amount": 50000,
+      "price": 8
+    },
+    {
+      "id": 11664,
+      "amount": 50000,
+      "price": 8
+    },
+    {
+      "id": 11665,
+      "amount": 50000,
+      "price": 8
+    },
+    {
+      "id": 10551,
+      "amount": 50000,
+      "price": 20
+    },
+    {
+      "id": 8842,
+      "amount": 50000,
+      "price": 5
+    },
+    {
+      "id": 19785,
+      "amount": 50000,
+      "price": 26
+    },
+    {
+      "id": 19786,
+      "amount": 50000,
+      "price": 24
+    },
+    {
+      "id": 7462,
+      "amount": 50000,
+      "price": 4
+    },
+    {
+      "id": 10547,
+      "amount": 50000,
+      "price": 8
+    },
+    {
+      "id": 10549,
+      "amount": 50000,
+      "price": 8
+    },
+    {
+      "id": 10550,
+      "amount": 50000,
+      "price": 8
+    },
+    {
+      "id": 10555,
+      "amount": 50000,
+      "price": 12
+    },
+    {
+      "id": 10552,
+      "amount": 50000,
+      "price": 8
+    },
+    {
+      "id": 10553,
+      "amount": 50000,
+      "price": 8
+    },
+    {
+      "id": 10499,
+      "amount": 50000,
+      "price": 2
+    },
+    {
+      "id": 13661,
+      "amount": 50000,
+      "price": 30
+    },
+    {
+      "id": 10548,
+      "amount": 50000,
+      "price": 5
+    },
+    {
+      "id": 17273,
+      "amount": 50000,
+      "price": 20
+    },
+    {
+      "id": 15332,
+      "amount": 50000,
+      "price": 2
+    },
+    {
+      "id": 2435,
+      "amount": 50000,
+      "price": 1
+    },
+    {
+      "id": 2453,
+      "amount": 50000,
+      "price": 1
+    },
+    {
+      "id": 6686,
+      "amount": 50000,
+      "price": 1
+    },
+    {
+      "id": 3025,
+      "amount": 50000,
+      "price": 1
+    },
+    {
+      "id": 19335,
+      "amount": 100,
+      "price": 20
+    },
+    {
+      "id": 18335,
+      "amount": 100,
+      "price": 16
+    },
+    {
+      "id": 19711,
+      "amount": 100,
+      "price": 8
+    }
+  ]
+}

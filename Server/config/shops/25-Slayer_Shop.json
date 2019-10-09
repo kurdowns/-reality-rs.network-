@@ -1,0 +1,30 @@
+{
+  "id": 25,
+  "name": "Slayer Shop",
+  "currency": "ItemCurrency:995",
+  "generalStore": false,
+  "buysItems": true,
+  "replenishTime": 300000,
+  "items": [
+    {
+      "id": 13263,
+      "amount": 10000,
+      "price": 1500
+    },
+    {
+      "id": 15490,
+      "amount": 10000,
+      "price": 550
+    },
+    {
+      "id": 15488,
+      "amount": 10000,
+      "price": 550
+    },
+    {
+      "id": 7053,
+      "amount": 10000,
+      "price": 100
+    }
+  ]
+}

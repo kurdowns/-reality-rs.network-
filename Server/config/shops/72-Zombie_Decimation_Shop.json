@@ -1,0 +1,40 @@
+{
+  "id": 72,
+  "name": "Zombie Decimation Shop",
+  "currency": "ItemCurrency:995",
+  "generalStore": false,
+  "buysItems": true,
+  "replenishTime": 300000,
+  "items": [
+    {
+      "id": 16701,
+      "amount": 50,
+      "price": 0
+    },
+    {
+      "id": 17249,
+      "amount": 50,
+      "price": 0
+    },
+    {
+      "id": 16679,
+      "amount": 50,
+      "price": 0
+    },
+    {
+      "id": 16415,
+      "amount": 5,
+      "price": 0
+    },
+    {
+      "id": 16945,
+      "amount": 5,
+      "price": 0
+    },
+    {
+      "id": 16963,
+      "amount": 5,
+      "price": 0
+    }
+  ]
+}

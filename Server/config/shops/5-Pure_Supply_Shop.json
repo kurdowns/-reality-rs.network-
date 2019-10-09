@@ -1,0 +1,190 @@
+{
+  "id": 5,
+  "name": "Pure Supply Shop",
+  "currency": "ItemCurrency:995",
+  "generalStore": false,
+  "buysItems": true,
+  "replenishTime": 300000,
+  "items": [
+    {
+      "id": 6528,
+      "amount": 10000,
+      "price": 0
+    },
+    {
+      "id": 4153,
+      "amount": 10000,
+      "price": 0
+    },
+    {
+      "id": 656,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 658,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 660,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 662,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 664,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 2651,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 8950,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 4502,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 7003,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 6107,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 6108,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 6109,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 6188,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 542,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 544,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 2412,
+      "amount": 10000,
+      "price": 0
+    },
+    {
+      "id": 2413,
+      "amount": 10000,
+      "price": 0
+    },
+    {
+      "id": 2414,
+      "amount": 10000,
+      "price": 0
+    },
+    {
+      "id": 6568,
+      "amount": 10000,
+      "price": 0
+    },
+    {
+      "id": 7458,
+      "amount": 10000,
+      "price": 0
+    },
+    {
+      "id": 7459,
+      "amount": 10000,
+      "price": 0
+    },
+    {
+      "id": 7460,
+      "amount": 10000,
+      "price": 0
+    },
+    {
+      "id": 7461,
+      "amount": 10000,
+      "price": 0
+    },
+    {
+      "id": 3840,
+      "amount": 10000,
+      "price": 0
+    },
+    {
+      "id": 3842,
+      "amount": 10000,
+      "price": 0
+    },
+    {
+      "id": 3844,
+      "amount": 10000,
+      "price": 0
+    },
+    {
+      "id": 1321,
+      "amount": 10000,
+      "price": 0
+    },
+    {
+      "id": 1323,
+      "amount": 10000,
+      "price": 0
+    },
+    {
+      "id": 1325,
+      "amount": 10000,
+      "price": 0
+    },
+    {
+      "id": 1327,
+      "amount": 10000,
+      "price": 0
+    },
+    {
+      "id": 1329,
+      "amount": 10000,
+      "price": 0
+    },
+    {
+      "id": 1331,
+      "amount": 10000,
+      "price": 0
+    },
+    {
+      "id": 1333,
+      "amount": 10000,
+      "price": 0
+    },
+    {
+      "id": 21773,
+      "amount": 100000,
+      "price": 0
+    }
+  ]
+}

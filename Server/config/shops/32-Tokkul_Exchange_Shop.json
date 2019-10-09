@@ -1,0 +1,55 @@
+{
+  "id": 32,
+  "name": "Tokkul Exchange Shop",
+  "currency": "ItemCurrency:6529",
+  "generalStore": false,
+  "buysItems": false,
+  "replenishTime": 300000,
+  "items": [
+    {
+      "id": 6137,
+      "amount": 100,
+      "price": 1000
+    },
+    {
+      "id": 6139,
+      "amount": 100,
+      "price": 2000
+    },
+    {
+      "id": 6141,
+      "amount": 100,
+      "price": 1250
+    },
+    {
+      "id": 6147,
+      "amount": 100,
+      "price": 550
+    },
+    {
+      "id": 6153,
+      "amount": 100,
+      "price": 570
+    },
+    {
+      "id": 10589,
+      "amount": 100,
+      "price": 2000
+    },
+    {
+      "id": 10564,
+      "amount": 100,
+      "price": 3500
+    },
+    {
+      "id": 6809,
+      "amount": 100,
+      "price": 2500
+    },
+    {
+      "id": 3122,
+      "amount": 100,
+      "price": 2750
+    }
+  ]
+}

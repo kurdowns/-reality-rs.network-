@@ -1,0 +1,190 @@
+{
+  "id": 3,
+  "name": "Archer Store",
+  "currency": "ItemCurrency:995",
+  "generalStore": false,
+  "buysItems": true,
+  "replenishTime": 300000,
+  "items": [
+    {
+      "id": 882,
+      "amount": 50000,
+      "price": 0
+    },
+    {
+      "id": 884,
+      "amount": 50000,
+      "price": 0
+    },
+    {
+      "id": 886,
+      "amount": 50000,
+      "price": 0
+    },
+    {
+      "id": 888,
+      "amount": 50000,
+      "price": 0
+    },
+    {
+      "id": 890,
+      "amount": 50000,
+      "price": 0
+    },
+    {
+      "id": 892,
+      "amount": 50000,
+      "price": 0
+    },
+    {
+      "id": 841,
+      "amount": 200,
+      "price": 0
+    },
+    {
+      "id": 843,
+      "amount": 200,
+      "price": 0
+    },
+    {
+      "id": 849,
+      "amount": 200,
+      "price": 0
+    },
+    {
+      "id": 853,
+      "amount": 200,
+      "price": 0
+    },
+    {
+      "id": 857,
+      "amount": 200,
+      "price": 0
+    },
+    {
+      "id": 861,
+      "amount": 200,
+      "price": 0
+    },
+    {
+      "id": 1129,
+      "amount": 200,
+      "price": 0
+    },
+    {
+      "id": 1133,
+      "amount": 200,
+      "price": 0
+    },
+    {
+      "id": 1095,
+      "amount": 200,
+      "price": 0
+    },
+    {
+      "id": 1135,
+      "amount": 200,
+      "price": 0
+    },
+    {
+      "id": 1099,
+      "amount": 200,
+      "price": 0
+    },
+    {
+      "id": 1065,
+      "amount": 200,
+      "price": 0
+    },
+    {
+      "id": 2499,
+      "amount": 200,
+      "price": 0
+    },
+    {
+      "id": 2493,
+      "amount": 200,
+      "price": 0
+    },
+    {
+      "id": 2487,
+      "amount": 200,
+      "price": 0
+    },
+    {
+      "id": 2501,
+      "amount": 200,
+      "price": 0
+    },
+    {
+      "id": 2495,
+      "amount": 200,
+      "price": 0
+    },
+    {
+      "id": 2489,
+      "amount": 200,
+      "price": 0
+    },
+    {
+      "id": 9185,
+      "amount": 200,
+      "price": 0
+    },
+    {
+      "id": 9140,
+      "amount": 100000,
+      "price": 0
+    },
+    {
+      "id": 9141,
+      "amount": 100000,
+      "price": 0
+    },
+    {
+      "id": 9142,
+      "amount": 100000,
+      "price": 0
+    },
+    {
+      "id": 15243,
+      "amount": 100000,
+      "price": 0
+    },
+    {
+      "id": 2491,
+      "amount": 500,
+      "price": 0
+    },
+    {
+      "id": 2497,
+      "amount": 500,
+      "price": 0
+    },
+    {
+      "id": 2503,
+      "amount": 500,
+      "price": 0
+    },
+    {
+      "id": 10499,
+      "amount": 500,
+      "price": 0
+    },
+    {
+      "id": 868,
+      "amount": 100000,
+      "price": 0
+    },
+    {
+      "id": 811,
+      "amount": 100000,
+      "price": 0
+    },
+    {
+      "id": 9144,
+      "amount": 100000,
+      "price": 400
+    }
+  ]
+}

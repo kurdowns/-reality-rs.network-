@@ -1,0 +1,45 @@
+{
+  "id": 17,
+  "name": "Mage Arena Store",
+  "currency": "MageCurrency",
+  "generalStore": false,
+  "buysItems": false,
+  "replenishTime": 300000,
+  "items": [
+    {
+      "id": 6889,
+      "amount": 1,
+      "price": 200
+    },
+    {
+      "id": 6914,
+      "amount": 1,
+      "price": 200
+    },
+    {
+      "id": 6920,
+      "amount": 1,
+      "price": 25
+    },
+    {
+      "id": 6918,
+      "amount": 1,
+      "price": 35
+    },
+    {
+      "id": 6916,
+      "amount": 1,
+      "price": 100
+    },
+    {
+      "id": 6924,
+      "amount": 1,
+      "price": 50
+    },
+    {
+      "id": 6922,
+      "amount": 1,
+      "price": 10
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "npcs-christo",
+  "enabled": true,
+  "author": "Stuart",
+  "version": 1.0,
+  "scripts": [
+    "christo.rb"
+  ]
+}

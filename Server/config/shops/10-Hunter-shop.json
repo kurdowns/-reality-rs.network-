@@ -1,0 +1,45 @@
+{
+  "id": 10,
+  "name": "Hunter Shop",
+  "currency": "ItemCurrency:995",
+  "generalStore": false,
+  "buysItems": true,
+  "log": false,
+  "items": [
+    {
+      "id": 10045,
+      "amount": 100,
+      "price": 750
+    },
+    {
+      "id": 10043,
+      "amount": 100,
+      "price": 1000
+    },
+    {
+      "id": 10041,
+      "amount": 100,
+      "price": 300
+    },
+    {
+      "id": 10006,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 10008,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 11260,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 10010,
+      "amount": 100,
+      "price": 0
+    }
+  ]
+}

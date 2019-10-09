@@ -1,0 +1,55 @@
+{
+  "id": 126,
+  "name": "Slayer Resources Shop",
+  "currency": "ItemCurrency:995",
+  "generalStore": false,
+  "buysItems": true,
+  "replenishTime": 300000,
+  "items": [
+    {
+      "id": 4155,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 4164,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 4166,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 4161,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 4156,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 4158,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 13290,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 4168,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 4162,
+      "amount": 100,
+      "price": 0
+    }
+  ]
+}

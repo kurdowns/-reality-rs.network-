@@ -1,0 +1,15 @@
+Slot 0 - Helmet
+Slot 1 - Cape
+Slot 2 - Amulet
+Slot 3 - Weapon
+Slot 4 - Torso
+Slot 5 - Shield
+Slot 6 - Null
+Slot 7 - Pants
+Slot 8 - Null?
+Slot 9 - Gloves?
+Slot 10 - Boots?
+Slot 12 - Ring
+Slot 13 - Arrows
+
+Anything with an ? means that it isn't tested.

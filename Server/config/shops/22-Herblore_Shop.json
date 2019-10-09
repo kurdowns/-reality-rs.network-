@@ -1,0 +1,130 @@
+{
+  "id": 22,
+  "name": "Herblore Shop",
+  "currency": "ItemCurrency:995",
+  "generalStore": false,
+  "buysItems": true,
+  "replenishTime": 300000,
+  "items": [
+    {
+      "id": 228,
+      "amount": 100000,
+      "price": 0
+    },
+    {
+      "id": 233,
+      "amount": 10000,
+      "price": 0
+    },
+    {
+      "id": 221,
+      "amount": 10000,
+      "price": 0
+    },
+    {
+      "id": 9594,
+      "amount": 10000,
+      "price": 0
+    },
+    {
+      "id": 235,
+      "amount": 10000,
+      "price": 0
+    },
+    {
+      "id": 225,
+      "amount": 10000,
+      "price": 0
+    },
+    {
+      "id": 223,
+      "amount": 10000,
+      "price": 0
+    },
+    {
+      "id": 239,
+      "amount": 10000,
+      "price": 0
+    },
+    {
+      "id": 9736,
+      "amount": 10000,
+      "price": 0
+    },
+    {
+      "id": 231,
+      "amount": 10000,
+      "price": 0
+    },
+    {
+      "id": 241,
+      "amount": 10000,
+      "price": 0
+    },
+    {
+      "id": 245,
+      "amount": 10000,
+      "price": 0
+    },
+    {
+      "id": 3138,
+      "amount": 10000,
+      "price": 0
+    },
+    {
+      "id": 247,
+      "amount": 10000,
+      "price": 0
+    },
+    {
+      "id": 6693,
+      "amount": 10000,
+      "price": 0
+    },
+    {
+      "id": 10111,
+      "amount": 10000,
+      "price": 0
+    },
+    {
+      "id": 1975,
+      "amount": 10000,
+      "price": 0
+    },
+    {
+      "id": 2152,
+      "amount": 10000,
+      "price": 0
+    },
+    {
+      "id": 12539,
+      "amount": 10000,
+      "price": 0
+    },
+    {
+      "id": 1470,
+      "amount": 10000,
+      "price": 0
+    },
+    {
+      "id": 1472,
+      "amount": 10000,
+      "price": 0
+    },
+    {
+      "id": 1474,
+      "amount": 10000,
+      "price": 0
+    },
+    {
+      "id": 1476,
+      "amount": 10000,
+      "price": 0
+    },
+    {
+      "id": 2970,
+      "amount": 10000,
+      "price": 0
+    }
+  ]
+}

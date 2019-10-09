@@ -1,0 +1,46 @@
+{
+  "id": 30,
+  "name": "Halloween store",
+  "currency": "ItemCurrency:995",
+  "generalStore": false,
+  "buysItems": true,
+  "replenishTime": 300000,
+  "items": [
+    {
+      "id": 1419,
+      "amount": 10000,
+      "price": 25000000
+    },
+    {
+      "id": 9920,
+      "amount": 10000,
+      "price": 15000000
+    },
+    {
+      "id": 9921,
+      "amount": 10000,
+      "price": 5000000
+    },
+    {
+      "id": 9922,
+      "amount": 10000,
+      "price": 5000000
+    },
+
+    {
+      "id": 9923,
+      "amount": 10000,
+      "price": 5000000
+    },
+    {
+      "id": 9924,
+      "amount": 10000,
+      "price": 5000000
+    },
+    {
+      "id": 9925,
+      "amount": 10000,
+      "price": 5000000
+    }
+  ]
+}

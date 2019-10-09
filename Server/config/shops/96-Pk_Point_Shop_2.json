@@ -1,0 +1,80 @@
+{
+  "id": 96,
+  "name": "Pk Point Shop 2",
+  "currency": "PkCurrency",
+  "generalStore": false,
+  "buysItems": false,
+  "replenishTime": 300000,
+  "items": [
+    {
+      "id": 11128,
+      "amount": 10,
+      "price": 15
+    },
+    {
+      "id": 14484,
+      "amount": 10,
+      "price": 22
+    },
+    {
+      "id": 15241,
+      "amount": 10,
+      "price": 10
+    },
+    {
+      "id": 19342,
+      "amount": 10,
+      "price": 60
+    },
+    {
+      "id": 19780,
+      "amount": 10,
+      "price": 25
+    },
+    {
+      "id": 11235,
+      "amount": 10,
+      "price": 13
+    },
+    {
+      "id": 9084,
+      "amount": 10,
+      "price": 25
+    },
+    {
+      "id": 9096,
+      "amount": 10,
+      "price": 10
+    },
+    {
+      "id": 9097,
+      "amount": 10,
+      "price": 25
+    },
+    {
+      "id": 9098,
+      "amount": 10,
+      "price": 20
+    },
+    {
+      "id": 9099,
+      "amount": 10,
+      "price": 7
+    },
+    {
+      "id": 9100,
+      "amount": 10,
+      "price": 7
+    },
+    {
+      "id": 9101,
+      "amount": 10,
+      "price": 20
+    },
+    {
+      "id": 9102,
+      "amount": 10,
+      "price": 12
+    }
+  ]
+}

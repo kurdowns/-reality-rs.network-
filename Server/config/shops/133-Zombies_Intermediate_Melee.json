@@ -1,0 +1,85 @@
+{
+  "id": 133,
+  "name": "Zombies Intermediate Melee",
+  "currency": "ZombieMinigameCurrency",
+  "generalStore": false,
+  "buysItems": false,
+  "replenishTime": 300000,
+  "items": [
+    {
+      "id": 4585,
+      "amount": 100,
+      "price": 20
+    },
+    {
+      "id": 1149,
+      "amount": 100,
+      "price": 5
+    },
+    {
+      "id": 1187,
+      "amount": 100,
+      "price": 25
+    },
+    {
+      "id": 13481,
+      "amount": 100,
+      "price": 25
+    },
+    {
+      "id": 13488,
+      "amount": 100,
+      "price": 25
+    },
+    {
+      "id": 1305,
+      "amount": 100,
+      "price": 20
+    },
+    {
+      "id": 4587,
+      "amount": 100,
+      "price": 25
+    },
+    {
+      "id": 6568,
+      "amount": 100,
+      "price": 15
+    },
+    {
+      "id": 7460,
+      "amount": 100,
+      "price": 5
+    },
+    {
+      "id": 13445,
+      "amount": 100,
+      "price": 10
+    },
+    {
+      "id": 10828,
+      "amount": 100,
+      "price": 10
+    },
+    {
+      "id": 6524,
+      "amount": 100,
+      "price": 7
+    },
+    {
+      "id": 1712,
+      "amount": 100,
+      "price": 5
+    },
+    {
+      "id": 3751,
+      "amount": 100,
+      "price": 5
+    },
+    {
+      "id": 1231,
+      "amount": 100,
+      "price": 5
+    }
+  ]
+}

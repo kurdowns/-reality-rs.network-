@@ -1,0 +1,16 @@
+{
+  "id": 13,
+  "name": "PK Point Shop(disabled)",
+  "currency": "PkPointCurrency",
+  "generalStore": false,
+  "buysItems": false,
+  "replenishTime": 300000,
+  "items": [
+    {
+      "id": 1,//team cape i (range)
+      "amount": 1000,
+      "price": 40
+    }
+
+  ]
+}

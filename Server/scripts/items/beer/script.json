@@ -1,0 +1,9 @@
+{
+  "name": "items-beer",
+  "enabled": true,
+  "author": "Stuart",
+  "version": 1.0,
+  "scripts": [
+    "beer.rb"
+  ]
+}

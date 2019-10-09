@@ -1,0 +1,195 @@
+{
+  "id": 2,
+  "name": "Aubury\u0027s Magic Store",
+  "currency": "ItemCurrency:995",
+  "generalStore": false,
+  "buysItems": true,
+  "replenishTime": 300000,
+  "items": [
+    {
+      "id": 9075,
+      "amount": 1000000,
+      "price": 0
+    },
+    {
+      "id": 554,
+      "amount": 1000000,
+      "price": 0
+    },
+    {
+      "id": 555,
+      "amount": 1000000,
+      "price": 0
+    },
+    {
+      "id": 556,
+      "amount": 1000000,
+      "price": 0
+    },
+    {
+      "id": 557,
+      "amount": 1000000,
+      "price": 0
+    },
+    {
+      "id": 558,
+      "amount": 1000000,
+      "price": 0
+    },
+    {
+      "id": 559,
+      "amount": 1000000,
+      "price": 0
+    },
+    {
+      "id": 562,
+      "amount": 1000000,
+      "price": 0
+    },
+    {
+      "id": 563,
+      "amount": 1000000,
+      "price": 0
+    },
+    {
+      "id": 565,
+      "amount": 1000000,
+      "price": 0
+    },
+    {
+      "id": 561,
+      "amount": 1000000,
+      "price": 0
+    },
+    {
+      "id": 560,
+      "amount": 1000000,
+      "price": 0
+    },
+    {
+      "id": 566,
+      "amount": 1000000,
+      "price": 0
+    },
+    {
+      "id": 1381,
+      "amount": 20,
+      "price": 0
+    },
+    {
+      "id": 1383,
+      "amount": 20,
+      "price": 0
+    },
+    {
+      "id": 1385,
+      "amount": 20,
+      "price": 0
+    },
+    {
+      "id": 1387,
+      "amount": 20,
+      "price": 0
+    },
+    {
+      "id": 4089,
+      "amount": 200,
+      "price": 0
+    },
+    {
+      "id": 4091,
+      "amount": 200,
+      "price": 0
+    },
+    {
+      "id": 4093,
+      "amount": 200,
+      "price": 0
+    },
+    {
+      "id": 4095,
+      "amount": 200,
+      "price": 0
+    },
+    {
+      "id": 4097,
+      "amount": 200,
+      "price": 0
+    },
+    {
+      "id": 4099,
+      "amount": 200,
+      "price": 0
+    },
+    {
+      "id": 4101,
+      "amount": 200,
+      "price": 0
+    },
+    {
+      "id": 4103,
+      "amount": 200,
+      "price": 0
+    },
+    {
+      "id": 4105,
+      "amount": 200,
+      "price": 0
+    },
+    {
+      "id": 4107,
+      "amount": 200,
+      "price": 0
+    },
+    {
+      "id": 6107,
+      "amount": 200,
+      "price": 0
+    },
+    {
+      "id": 6108,
+      "amount": 200,
+      "price": 0
+    },
+    {
+      "id": 4109,
+      "amount": 200,
+      "price": 0
+    },
+    {
+      "id": 4111,
+      "amount": 200,
+      "price": 0
+    },
+    {
+      "id": 4113,
+      "amount": 200,
+      "price": 0
+    },
+    {
+      "id": 4115,
+      "amount": 200,
+      "price": 0
+    },
+    {
+      "id": 4117,
+      "amount": 200,
+      "price": 0
+    },
+    {
+      "id": 6111,
+      "amount": 200,
+      "price": 0
+    },
+    {
+      "id": 6110,
+      "amount": 200,
+      "price": 0
+    },
+    {
+      "id": 6106,
+      "amount": 200,
+      "price": 0
+    }
+  ]
+}

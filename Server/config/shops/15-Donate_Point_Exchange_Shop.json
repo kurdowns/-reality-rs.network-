@@ -1,0 +1,30 @@
+{
+  "id": 15,
+  "name": "Donate Point Exchange Shop 3",
+  "currency": "DonatorCurrency",
+  "generalStore": false,
+  "buysItems": false,
+  "replenishTime": 300000,
+  "items": [
+    {
+      "id": 25053,
+      "amount": 100,
+      "price": 20
+    },
+    {
+      "id": 25097,
+      "amount": 100,
+      "price": 20
+    },
+    {
+      "id": 25106,
+      "amount": 100,
+      "price": 12
+    },
+    {
+      "id": 25100,
+      "amount": 100,
+      "price": 25
+    }
+  ]
+}

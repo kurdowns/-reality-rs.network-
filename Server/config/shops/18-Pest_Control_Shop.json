@@ -1,0 +1,95 @@
+{
+  "id": 18,
+  "name": "Pest Control Shop",
+  "currency": "PestControlCurrency",
+  "generalStore": false,
+  "buysItems": false,
+  "replenishTime": 300000,
+  "items": [
+    {
+      "id": 8839,
+      "amount": 100,
+      "price": 75
+    },
+    {
+      "id": 8840,
+      "amount": 100,
+      "price": 75
+    },
+    {
+      "id": 11663,
+      "amount": 100,
+      "price": 30
+    },
+    {
+      "id": 11664,
+      "amount": 100,
+      "price": 30
+    },
+    {
+      "id": 11665,
+      "amount": 100,
+      "price": 30
+    },
+    {
+      "id": 19712,
+      "amount": 100,
+      "price": 50
+    },
+    {
+      "id": 10551,
+      "amount": 100,
+      "price": 45
+    },
+    {
+      "id": 8842,
+      "amount": 100,
+      "price": 30
+    },
+    {
+      "id": 19785,
+      "amount": 100,
+      "price": 115
+    },
+    {
+      "id": 19786,
+      "amount": 100,
+      "price": 115
+    },
+    {
+      "id": 7462,
+      "amount": 100,
+      "price": 30
+    },
+    {
+      "id": 10549,
+      "amount": 100,
+      "price": 40
+    },
+    {
+      "id": 10550,
+      "amount": 100,
+      "price": 40
+    },
+    {
+      "id": 10547,
+      "amount": 100,
+      "price": 40
+    },
+    {
+      "id": 10555,
+      "amount": 100,
+      "price": 40
+    },
+    {
+      "id": 10552,
+      "amount": 100,
+      "price": 20
+    },
+    {
+      "id": 10553,
+      "amount": 100,
+      "price": 20
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 125,
+  "name": "Mage Arena Staffs",
+  "currency": "ItemCurrency:995",
+  "generalStore": false,
+  "buysItems": true,
+  "replenishTime": 300000,
+  "items": [
+    {
+      "id": 2415,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 2416,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 2417,
+      "amount": 100,
+      "price": 0
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "id": 69,
+  "name": "Zombie Exchange Shop",
+  "currency": "ZombieCurrency",
+  "generalStore": false,
+  "buysItems": false,
+  "replenishTime": 300000,
+  "items": [
+    {
+      "id": 16755,
+      "amount": 1,
+      "price": 500
+    },
+    {
+      "id": 16865,
+      "amount": 1,
+      "price": 650
+    },
+    {
+      "id": 16931,
+      "amount": 1,
+      "price": 65
+    },
+    {
+      "id": 17017,
+      "amount": 1,
+      "price": 675
+    },
+    {
+      "id": 16195,
+      "amount": 1,
+      "price": 95
+    },
+    {
+      "id": 17237,
+      "amount": 1,
+      "price": 675
+    },
+    {
+      "id": 14490,
+      "amount": 1,
+      "price": 500
+    },
+    {
+      "id": 14492,
+      "amount": 1,
+      "price": 550
+    },
+    {
+      "id": 14494,
+      "amount": 1,
+      "price": 475
+    },
+    {
+      "id": 19337,
+      "amount": 1,
+      "price": 1500
+    },
+    {
+      "id": 19338,
+      "amount": 1,
+      "price": 1000
+    },
+    {
+      "id": 19339,
+      "amount": 1,
+      "price": 500
+    },
+    {
+      "id": 19340,
+      "amount": 1,
+      "price": 850
+    },
+    {
+      "id": 21557,
+      "amount": 10,
+      "price": 1500
+    },
+    {
+      "id": 21559,
+      "amount": 10,
+      "price": 2100
+    },
+    {
+      "id": 21561,
+      "amount": 10,
+      "price": 2000
+    },
+    {
+      "id": 21565,
+      "amount": 10,
+      "price": 1500
+    },
+    {
+      "id": 21563,
+      "amount": 10,
+      "price": 1300
+    }
+  ]
+}

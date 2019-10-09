@@ -1,0 +1,45 @@
+{
+  "id": 135,
+  "name": "Zombies intermediate Mage",
+  "currency": "ZombieMinigameCurrency",
+  "generalStore": false,
+  "buysItems": false,
+  "replenishTime": 300000,
+  "items": [
+    {
+      "id": 2413,
+      "amount": 100,
+      "price": 3
+    },
+    {
+      "id": 2414,
+      "amount": 100,
+      "price": 3
+    },
+    {
+      "id": 2412,
+      "amount": 100,
+      "price": 3
+    },
+    {
+      "id": 1727,
+      "amount": 100,
+      "price": 3
+    },
+    {
+      "id": 3755,
+      "amount": 100,
+      "price": 5
+    },
+    {
+      "id": 560,
+      "amount": 100,
+      "price": 5
+    },
+    {
+      "id": 4675,
+      "amount": 100,
+      "price": 20
+    }
+  ]
+}

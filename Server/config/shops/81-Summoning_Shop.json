@@ -1,0 +1,80 @@
+{
+  "id": 81,
+  "name": "Summoning Shop",
+  "currency": "ItemCurrency:995",
+  "generalStore": false,
+  "buysItems": true,
+  "replenishTime": 300000,
+  "items": [
+    {
+      "id": 12183,
+      "amount": 100000,
+      "price": 0
+    },
+    {
+      "id": 237,
+      "amount": 50000,
+      "price": 0
+    },
+    {
+      "id": 1438,
+      "amount": 50000,
+      "price": 0
+    },
+    {
+      "id": 1440,
+      "amount": 50000,
+      "price": 0
+    },
+    {
+      "id": 1442,
+      "amount": 50000,
+      "price": 0
+    },
+    {
+      "id": 1444,
+      "amount": 50000,
+      "price": 0
+    },
+    {
+      "id": 1446,
+      "amount": 50000,
+      "price": 0
+    },
+    {
+      "id": 1448,
+      "amount": 50000,
+      "price": 0
+    },
+    {
+      "id": 1462,
+      "amount": 50000,
+      "price": 0
+    },
+    {
+      "id": 10818,
+      "amount": 50000,
+      "price": 0
+    },
+    {
+      "id": 12155,
+      "amount": 50000,
+      "price": 0
+    },
+    {
+      "id": 3226,
+      "amount": 50000,
+      "price": 0
+    },
+    {
+      "id": 1120,
+      "amount": 50000,
+      "price": 0
+    },
+    {
+      "id": 7939,
+      "amount": 50000,
+      "price": 0
+    }
+  ]
+}

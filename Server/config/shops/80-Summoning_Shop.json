@@ -1,0 +1,295 @@
+{
+  "id": 80,
+  "name": "Summoning Shop",
+  "currency": "ItemCurrency:995",
+  "generalStore": false,
+  "buysItems": true,
+  "replenishTime": 300000,
+  "items": [
+    {
+      "id": 2859,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 2138,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 6291,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 3363,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 440,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 6319,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 1783,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 3095,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 2134,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 3138,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 6032,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 9976,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 3325,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 12156,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 1519,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 2349,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 6010,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 13572,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 12153,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 12109,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 2351,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 590,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 1635,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 2132,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 9978,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 12168,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 1937,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 2353,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 311,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 10099,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 10103,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 10095,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 6667,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 9735,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 12168,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 6287,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 8431,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 2150,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 7939,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 383,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 1963,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 1933,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 10117,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 14616,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 12168,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 6979,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 6981,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 2460,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 2361,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 10020,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 12162,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 5933,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 1442,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 1438,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 1440,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 571,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 6155,
+      "amount": 100,
+      "price": 0
+    }
+  ]
+}

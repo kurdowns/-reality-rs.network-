@@ -1,0 +1,115 @@
+{
+  "id": 132,
+  "name": "Zombies Beginner Mage",
+  "currency": "ZombieMinigameCurrency",
+  "generalStore": false,
+  "buysItems": false,
+  "replenishTime": 300000,
+  "items": [
+    {
+      "id": 1381,
+      "amount": 100,
+      "price": 1
+    },
+    {
+      "id": 1385,
+      "amount": 100,
+      "price": 1
+    },
+    {
+      "id": 1383,
+      "amount": 100,
+      "price": 1
+    },
+    {
+      "id": 6111,
+      "amount": 100,
+      "price": 2
+    },
+    {
+      "id": 6109,
+      "amount": 100,
+      "price": 2
+    },
+    {
+      "id": 6107,
+      "amount": 100,
+      "price": 5
+    },
+    {
+      "id": 6108,
+      "amount": 100,
+      "price": 5
+    },
+    {
+      "id": 6106,
+      "amount": 100,
+      "price": 1
+    },
+    {
+      "id": 6110,
+      "amount": 100,
+      "price": 1
+    },
+    {
+      "id": 4091,
+      "amount": 100,
+      "price": 5
+    },
+    {
+      "id": 4089,
+      "amount": 100,
+      "price": 3
+    },
+    {
+      "id": 4093,
+      "amount": 100,
+      "price": 5
+    },
+    {
+      "id": 4097,
+      "amount": 100,
+      "price": 2
+    },
+    {
+      "id": 4095,
+      "amount": 100,
+      "price": 2
+    },
+    {
+      "id": 554,
+      "amount": 100,
+      "price": 2
+    },
+    {
+      "id": 558,
+      "amount": 100,
+      "price": 1
+    },
+    {
+      "id": 556,
+      "amount": 100,
+      "price": 1
+    },
+    {
+      "id": 562,
+      "amount": 100,
+      "price": 1
+    },
+    {
+      "id": 555,
+      "amount": 100,
+      "price": 2
+    },
+    {
+      "id": 557,
+      "amount": 100,
+      "price": 1
+    },
+    {
+      "id": 559,
+      "amount": 100,
+      "price": 1
+    }
+  ]
+}

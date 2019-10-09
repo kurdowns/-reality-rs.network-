@@ -1,0 +1,35 @@
+{
+  "id": 24,
+  "name": "Gem Shop",
+  "currency": "ItemCurrency:995",
+  "generalStore": false,
+  "buysItems": true,
+  "replenishTime": 300000,
+  "items": [
+    {
+      "id": 1623,
+      "amount": 10000,
+      "price": 0
+    },
+    {
+      "id": 1621,
+      "amount": 10000,
+      "price": 0
+    },
+    {
+      "id": 1619,
+      "amount": 10000,
+      "price": 0
+    },
+    {
+      "id": 1617,
+      "amount": 10000,
+      "price": 0
+    },
+    {
+      "id": 1631,
+      "amount": 10000,
+      "price": 0
+    }
+  ]
+}

@@ -1,0 +1,648 @@
+[
+    {
+        "npcName": "Spirit wolf",
+        "npcId": 6829,
+        "levelRequired": 1,
+        "minutes": 6,
+        "pointCost": 1,
+        "xpWhenSummoned": 0.1
+    },
+    {
+        "npcName": "Dreadfowl",
+        "npcId": 6825,
+        "levelRequired": 4,
+        "minutes": 4,
+        "pointCost": 1,
+        "xpWhenSummoned": 0.1
+    },
+    {
+        "npcName": "Spirit spider",
+        "npcId": 6841,
+        "levelRequired": 10,
+        "minutes": 15,
+        "pointCost": 2,
+        "xpWhenSummoned": 0.2
+    },
+    {
+        "npcName": "Thorny snail",
+        "npcId": 6806,
+        "levelRequired": 13,
+        "minutes": 16,
+        "pointCost": 2,
+        "inventorySize": 3,
+        "xpWhenSummoned": 0.2
+    },
+    {
+        "npcName": "Granite crab",
+        "npcId": 6796,
+        "levelRequired": 16,
+        "minutes": 18,
+        "pointCost": 2,
+        "xpWhenSummoned": 0.2
+    },
+    {
+        "npcName": "Spirit mosquito",
+        "npcId": 7331,
+        "levelRequired": 17,
+        "minutes": 12,
+        "pointCost": 2,
+        "xpWhenSummoned": 0.5
+    },
+    {
+        "npcName": "Desert wyrm",
+        "npcId": 6831,
+        "levelRequired": 18,
+        "minutes": 19,
+        "pointCost": 1,
+        "xpWhenSummoned": 0.4
+    },
+    {
+        "npcName": "Spirit scorpian",
+        "npcId": 6837,
+        "levelRequired": 19,
+        "minutes": 17,
+        "pointCost": 2,
+        "xpWhenSummoned": 0.9
+    },
+    {
+        "npcName": "Spirit Tz-Kih",
+        "npcId": 7361,
+        "levelRequired": 22,
+        "minutes": 18,
+        "pointCost": 3,
+        "xpWhenSummoned": 0.9
+    },
+    {
+        "npcName": "Albino rat",
+        "npcId": 6846,
+        "levelRequired": 23,
+        "minutes": 22,
+        "pointCost": 3,
+        "xpWhenSummoned": 2.3
+    },
+    {
+        "npcName": "Spirit kalphite",
+        "npcId": 6994,
+        "levelRequired": 25,
+        "minutes": 22,
+        "pointCost": 3,
+        "inventorySize": 6,
+        "xpWhenSummoned": 2.5
+    },
+    {
+        "npcName": "Compost mound",
+        "npcId": 6871,
+        "levelRequired": 28,
+        "minutes": 24,
+        "pointCost": 6,
+        "xpWhenSummoned": 0.6
+    },
+    {
+        "npcName": "Giant chinchompa",
+        "npcId": 7353,
+        "levelRequired": 29,
+        "minutes": 31,
+        "pointCost": 1,
+        "xpWhenSummoned": 2.5
+    },
+    {
+        "npcName": "Vampyre bat",
+        "npcId": 6835,
+        "levelRequired": 21,
+        "minutes": 33,
+        "pointCost": 4,
+        "xpWhenSummoned": 1.5
+    },
+    {
+        "npcName": "Honey badger",
+        "npcId": 6845,
+        "levelRequired": 32,
+        "minutes": 25,
+        "pointCost": 4,
+        "xpWhenSummoned": 1.6
+    },
+    {
+        "npcName": "Beaver",
+        "npcId": 6808,
+        "levelRequired": 33,
+        "minutes": 27,
+        "pointCost": 4,
+        "xpWhenSummoned": 0.7
+    },
+    {
+        "npcName": "Void ravager",
+        "npcId": 7370,
+        "levelRequired": 34,
+        "minutes": 27,
+        "pointCost": 4,
+        "xpWhenSummoned": 0.7
+    },
+    {
+        "npcName": "Void spinner",
+        "npcId": 7333,
+        "levelRequired": 34,
+        "minutes": 27,
+        "pointCost": 4,
+        "xpWhenSummoned": 0.7
+    },
+    {
+        "npcName": "Void shifter",
+        "npcId": 7367,
+        "levelRequired": 34,
+        "minutes": 94,
+        "pointCost": 4,
+        "xpWhenSummoned": 0.7
+    },
+    {
+        "npcName": "Void torcher",
+        "npcId": 7351,
+        "levelRequired": 34,
+        "minutes": 94,
+        "pointCost": 4,
+        "xpWhenSummoned": 0.7
+    },
+    {
+        "npcName": "Bronze minotaur",
+        "npcId": 6853,
+        "levelRequired": 36,
+        "minutes": 30,
+        "pointCost": 9,
+        "xpWhenSummoned": 3.6
+    },
+    {
+        "npcName": "Bull ant",
+        "npcId": 6867,
+        "levelRequired": 40,
+        "minutes": 30,
+        "pointCost": 5,
+        "inventorySize": 9,
+        "xpWhenSummoned": 0.6
+    },
+    {
+        "npcName": "Macaw",
+        "npcId": 6851,
+        "levelRequired": 41,
+        "minutes": 31,
+        "pointCost": 5,
+        "xpWhenSummoned": 0.8
+    },
+    {
+        "npcName": "Evil turnip",
+        "npcId": 6833,
+        "levelRequired": 42,
+        "minutes": 30,
+        "pointCost": 5,
+        "xpWhenSummoned": 2.1
+    },
+    {
+        "npcName": "Spirit cockatrice",
+        "npcId": 6875,
+        "levelRequired": 43,
+        "minutes": 36,
+        "pointCost": 5,
+        "xpWhenSummoned": 0.9
+    },
+    {
+        "npcName": "Spirit guthatrice",
+        "npcId": 6877,
+        "levelRequired": 43,
+        "minutes": 36,
+        "pointCost": 5,
+        "xpWhenSummoned": 0.9
+    },
+    {
+        "npcName": "Spirit saratrice",
+        "npcId": 6879,
+        "levelRequired": 43,
+        "minutes": 36,
+        "pointCost": 5,
+        "xpWhenSummoned": 0.9
+    },
+    {
+        "npcName": "Spirit zamatrice",
+        "npcId": 6881,
+        "levelRequired": 43,
+        "minutes": 36,
+        "pointCost": 5,
+        "xpWhenSummoned": 0.9
+    },
+    {
+        "npcName": "Spirit pengatrice",
+        "npcId": 6883,
+        "levelRequired": 43,
+        "minutes": 36,
+        "pointCost": 5,
+        "xpWhenSummoned": 0.9
+    },
+    {
+        "npcName": "Spirit coraxatrice",
+        "npcId": 6885,
+        "levelRequired": 43,
+        "minutes": 36,
+        "pointCost": 5,
+        "xpWhenSummoned": 0.9
+    },
+    {
+        "npcName": "Spirit vulatrice",
+        "npcId": 6887,
+        "levelRequired": 43,
+        "minutes": 36,
+        "pointCost": 5,
+        "xpWhenSummoned": 0.9
+    },
+    {
+        "npcName": "Iron minotaur",
+        "npcId": 6855,
+        "levelRequired": 46,
+        "minutes": 37,
+        "pointCost": 9,
+        "xpWhenSummoned": 4.6
+    },
+    {
+        "npcName": "Pyrelord",
+        "npcId": 7377,
+        "levelRequired": 46,
+        "minutes": 32,
+        "pointCost": 5,
+        "xpWhenSummoned": 2.3
+    },
+    {
+        "npcName": "Magpie",
+        "npcId": 6062,
+        "levelRequired": 47,
+        "minutes": 34,
+        "pointCost": 5,
+        "xpWhenSummoned": 0.9
+    },
+    {
+        "npcName": "Bloated leech",
+        "npcId": 6843,
+        "levelRequired": 49,
+        "minutes": 34,
+        "pointCost": 5,
+        "xpWhenSummoned": 2.4
+    },
+    {
+        "npcName": "Spirit terrorbird",
+        "npcId": 6794,
+        "levelRequired": 52,
+        "minutes": 36,
+        "pointCost": 6,
+        "inventorySize": 12,
+        "xpWhenSummoned": 0.8
+    },
+    {
+        "npcName": "Abyssal parasite",
+        "npcId": 6818,
+        "levelRequired": 54,
+        "minutes": 30,
+        "pointCost": 6,
+        "inventorySize": 7,
+        "xpWhenSummoned": 1.1
+    },
+    {
+        "npcName": "Spirit jelly",
+        "npcId": 6992,
+        "levelRequired": 55,
+        "minutes": 43,
+        "pointCost": 6,
+        "xpWhenSummoned": 5.5
+    },
+    {
+        "npcName": "Steel minotaur",
+        "npcId": 6857,
+        "levelRequired": 56,
+        "minutes": 46,
+        "pointCost": 9,
+        "xpWhenSummoned": 5.6
+    },
+    {
+        "npcName": "Ibis",
+        "npcId": 6991,
+        "levelRequired": 56,
+        "minutes": 38,
+        "pointCost": 6,
+        "xpWhenSummoned": 1.1
+    },
+    {
+        "npcName": "Spirit graahk",
+        "npcId": 7363,
+        "levelRequired": 57,
+        "minutes": 49,
+        "pointCost": 6,
+        "xpWhenSummoned": 5.7
+    },
+    {
+        "npcName": "Spirit kyatt",
+        "npcId": 7365,
+        "levelRequired": 57,
+        "minutes": 49,
+        "pointCost": 6,
+        "xpWhenSummoned": 5.7
+    },
+    {
+        "npcName": "Spirit larupia",
+        "npcId": 7337,
+        "levelRequired": 57,
+        "minutes": 49,
+        "pointCost": 6,
+        "xpWhenSummoned": 5.7
+    },
+    {
+        "npcName": "Karamthulhu overlord",
+        "npcId": 6809,
+        "levelRequired": 58,
+        "minutes": 44,
+        "pointCost": 6,
+        "xpWhenSummoned": 5.8
+    },
+    {
+        "npcName": "Smoke devil",
+        "npcId": 6865,
+        "levelRequired": 61,
+        "minutes": 48,
+        "pointCost": 7,
+        "xpWhenSummoned": 3
+    },
+    {
+        "npcName": "Abyssal lurker",
+        "npcId": 6820,
+        "levelRequired": 62,
+        "minutes": 41,
+        "pointCost": 7,
+        "inventorySize": 7,
+        "xpWhenSummoned": 1.9
+    },
+    {
+        "npcName": "Spirit cobra",
+        "npcId": 6802,
+        "levelRequired": 63,
+        "minutes": 56,
+        "pointCost": 7,
+        "xpWhenSummoned": 3.1
+    },
+    {
+        "npcName": "Stranger plant",
+        "npcId": 6827,
+        "levelRequired": 64,
+        "minutes": 49,
+        "pointCost": 7,
+        "xpWhenSummoned": 3.2
+    },
+    {
+        "npcName": "Mithril minotaur",
+        "npcId": 6859,
+        "levelRequired": 66,
+        "minutes": 55,
+        "pointCost": 9,
+        "xpWhenSummoned": 6.6
+    },
+    {
+        "npcName": "Barker toad",
+        "npcId": 6889,
+        "levelRequired": 66,
+        "minutes": 8,
+        "pointCost": 7,
+        "xpWhenSummoned": 1.0
+    },
+    {
+        "npcName": "War tortoise",
+        "npcId": 6815,
+        "levelRequired": 67,
+        "minutes": 43,
+        "pointCost": 7,
+        "inventorySize": 18,
+        "xpWhenSummoned": 0.7
+    },
+    {
+        "npcName": "Bunyip",
+        "npcId": 6813,
+        "levelRequired": 68,
+        "minutes": 44,
+        "pointCost": 7,
+        "xpWhenSummoned": 1.4
+    },
+    {
+        "npcName": "Fruit bat",
+        "npcId": 6817,
+        "levelRequired": 69,
+        "minutes": 45,
+        "pointCost": 7,
+        "xpWhenSummoned": 1.4
+    },
+    {
+        "npcName": "Ravenous locust",
+        "npcId": 7372,
+        "levelRequired": 70,
+        "minutes": 24,
+        "pointCost": 4,
+        "xpWhenSummoned": 1.5
+    },
+    {
+        "npcName": "Artic bear",
+        "npcId": 6839,
+        "levelRequired": 71,
+        "minutes": 28,
+        "pointCost": 8,
+        "xpWhenSummoned": 1.1
+    },
+    {
+        "npcName": "Phoenix",
+        "npcId": 8548,
+        "levelRequired": 72,
+        "minutes": 30,
+        "pointCost": 8,
+        "xpWhenSummoned": 7
+    },
+    {
+        "npcName": "Obsidian golem",
+        "npcId": 7345,
+        "levelRequired": 73,
+        "minutes": 55,
+        "pointCost": 8,
+        "xpWhenSummoned": 7.3
+    },
+    {
+        "npcName": "Granite lobster",
+        "npcId": 6849,
+        "levelRequired": 74,
+        "minutes": 47,
+        "pointCost": 8,
+        "xpWhenSummoned": 3.7
+    },
+    {
+        "npcName": "Praying mantis",
+        "npcId": 6798,
+        "levelRequired": 75,
+        "minutes": 69,
+        "pointCost": 8,
+        "xpWhenSummoned": 3.6
+    },
+    {
+        "npcName": "Adamant minotaur",
+        "npcId": 6861,
+        "levelRequired": 76,
+        "minutes": 66,
+        "pointCost": 9,
+        "xpWhenSummoned": 7.6
+    },
+    {
+        "npcName": "Forge regent",
+        "npcId": 7335,
+        "levelRequired": 76,
+        "minutes": 45,
+        "pointCost": 9,
+        "xpWhenSummoned": 1.5
+    },
+    {
+        "npcName": "Talon beast",
+        "npcId": 7347,
+        "levelRequired": 77,
+        "minutes": 49,
+        "pointCost": 9,
+        "xpWhenSummoned": 3.8
+    },
+    {
+        "npcName": "Giant ent",
+        "npcId": 6800,
+        "levelRequired": 78,
+        "minutes": 49,
+        "pointCost": 8,
+        "xpWhenSummoned": 1.6
+    },
+    {
+        "npcName": "Fire titan",
+        "npcId": 7355,
+        "levelRequired": 78,
+        "minutes": 49,
+        "pointCost": 8,
+        "xpWhenSummoned": 7.9
+    },
+    {
+        "npcName": "Ice titan",
+        "npcId": 7359,
+        "levelRequired": 79,
+        "minutes": 64,
+        "pointCost": 9,
+        "xpWhenSummoned": 7.9
+    },
+    {
+        "npcName": "Moss titan",
+        "npcId": 7357,
+        "levelRequired": 79,
+        "minutes": 58,
+        "pointCost": 9,
+        "xpWhenSummoned": 7.9,
+        "specialClassName": "TitansConstitution"
+    },
+    {
+        "npcName": "Hydra",
+        "npcId": 6811,
+        "levelRequired": 80,
+        "minutes": 49,
+        "pointCost": 8,
+        "xpWhenSummoned": 1.6
+    },
+    {
+        "npcName": "Spirit dagannoth",
+        "npcId": 6804,
+        "levelRequired": 83,
+        "minutes": 57,
+        "pointCost": 9,
+        "xpWhenSummoned": 4.1,
+        "specialClassName": "SpikeShot"
+    },
+    {
+        "npcName": "Lava titan",
+        "npcId": 7341,
+        "levelRequired": 83,
+        "minutes": 61,
+        "pointCost": 9,
+        "xpWhenSummoned": 8.3,
+        "specialClassName": "EbonThunder"
+    },
+    {
+        "npcName": "Swamp titan",
+        "npcId": 7329,
+        "levelRequired": 85,
+        "minutes": 56,
+        "pointCost": 9,
+        "xpWhenSummoned": 4.2,
+        "specialClassName": "SwampPlague"
+    },
+    {
+        "npcName": "Rune minotaur",
+        "npcId": 6863,
+        "levelRequired": 86,
+        "minutes": 151,
+        "pointCost": 9,
+        "xpWhenSummoned": 8.6,
+        "specialClassName": "RuneBullRush"
+    },
+    {
+        "npcName": "Unicorn stallion",
+        "npcId": 6822,
+        "levelRequired": 88,
+        "minutes": 54,
+        "pointCost": 9,
+        "xpWhenSummoned": 1.8,
+        "specialClassName": "HealingAura"
+    },
+    {
+        "npcName": "Geyser titan",
+        "npcId": 7339,
+        "levelRequired": 89,
+        "minutes": 69,
+        "pointCost": 10,
+        "xpWhenSummoned": 8.9,
+        "specialClassName": "Boil"
+    },
+    {
+        "npcName": "Wolpertinger",
+        "npcId": 6869,
+        "levelRequired": 92,
+        "minutes": 62,
+        "pointCost": 10,
+        "xpWhenSummoned": 4.6,
+        "specialClassName": "MagicFocus"
+    },
+    {
+        "npcName": "Abyssal titan",
+        "npcId": 7349,
+        "levelRequired": 93,
+        "minutes": 32,
+        "pointCost": 10,
+        "inventorySize": 7,
+        "xpWhenSummoned": 1.9,
+        "specialClassName": "EssenceShipment"
+    },
+    {
+        "npcName": "Iron titan",
+        "npcId": 7375,
+        "levelRequired": 95,
+        "minutes": 65,
+        "pointCost": 10,
+        "xpWhenSummoned": 4.7,
+        "specialClassName": "IronWithin"
+    },
+    {
+        "npcName": "Pack yak",
+        "npcId": 6873,
+        "levelRequired": 96,
+        "minutes": 58,
+        "pointCost": 10,
+        "inventorySize": 30,
+        "xpWhenSummoned": 4.8,
+        "specialClassName": "WinterStorage",
+        "canAttack": false
+    },
+    {
+        "npcName": "Steel titan",
+        "npcId": 7343,
+        "levelRequired": 99,
+        "minutes": 64,
+        "pointCost": 10,
+        "xpWhenSummoned": 4.9,
+        "specialClassName": "SteelOfLegends"
+    }
+]

@@ -1,0 +1,35 @@
+{
+  "id": 79,
+  "name": "Nulodian\u0027s Cannon Shop",
+  "currency": "ItemCurrency:995",
+  "generalStore": false,
+  "buysItems": true,
+  "replenishTime": 300000,
+  "items": [
+    {
+      "id": 2,
+      "amount": 10000,
+      "price": 0
+    },
+    {
+      "id": 6,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 8,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 10,
+      "amount": 100,
+      "price": 0
+    },
+    {
+      "id": 12,
+      "amount": 100,
+      "price": 0
+    }
+  ]
+}

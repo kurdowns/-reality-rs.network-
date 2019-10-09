@@ -1,0 +1,50 @@
+{
+  "id": 70,
+  "name": "Zombie Invasion Shop",
+  "currency": "ItemCurrency:995",
+  "generalStore": false,
+  "buysItems": true,
+  "replenishTime": 300000,
+  "items": [
+    {
+      "id": 16693,
+      "amount": 50,
+      "price": 0
+    },
+    {
+      "id": 17241,
+      "amount": 50,
+      "price": 0
+    },
+    {
+      "id": 16671,
+      "amount": 50,
+      "price": 0
+    },
+    {
+      "id": 16933,
+      "amount": 500,
+      "price": 0
+    },
+    {
+      "id": 16407,
+      "amount": 5,
+      "price": 0
+    },
+    {
+      "id": 16937,
+      "amount": 5,
+      "price": 0
+    },
+    {
+      "id": 16385,
+      "amount": 5,
+      "price": 0
+    },
+    {
+      "id": 18167,
+      "amount": 1250,
+      "price": 0
+    }
+  ]
+}

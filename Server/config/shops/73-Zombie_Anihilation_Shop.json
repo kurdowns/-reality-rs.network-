@@ -1,0 +1,40 @@
+{
+  "id": 73,
+  "name": "Zombie Anihilation Shop",
+  "currency": "ItemCurrency:995",
+  "generalStore": false,
+  "buysItems": true,
+  "replenishTime": 300000,
+  "items": [
+    {
+      "id": 16703,
+      "amount": 50,
+      "price": 0
+    },
+    {
+      "id": 17251,
+      "amount": 50,
+      "price": 0
+    },
+    {
+      "id": 16681,
+      "amount": 50,
+      "price": 0
+    },
+    {
+      "id": 16417,
+      "amount": 5,
+      "price": 0
+    },
+    {
+      "id": 16947,
+      "amount": 5,
+      "price": 0
+    },
+    {
+      "id": 16965,
+      "amount": 5,
+      "price": 0
+    }
+  ]
+}
